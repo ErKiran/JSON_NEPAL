@@ -1,0 +1,191 @@
+[
+    {
+        "#": "1",
+        "Name": "Mahendra Highway",
+        "National Code": "",
+        "Asian Code": "AH2",
+        "Length": "1027.67 km",
+        "Starting Point": "Mechi Bridge, Jhapa Border",
+        "Ending Point": "Gaddachowki Border, Kanchanpur"
+    },
+    {
+        "#": "2",
+        "Name": "Tribhuvan Highway",
+        "National Code": "",
+        "Asian Code": "AH42",
+        "Length": "159.66 km",
+        "Starting Point": "Tribhuvan Statue, Tripureshwor",
+        "Ending Point": "Sirsiya Bridge, Birgunj Border"
+    },
+    {
+        "#": "3",
+        "Name": "Kathmandu Kodari Highway",
+        "National Code": "",
+        "Asian Code": "AH42",
+        "Length": "112.83 km",
+        "Starting Point": "Maitighar Junction, Kathmandu",
+        "Ending Point": "Friendship Bridge, Kodari Border G318 Road"
+    },
+    {
+        "#": "4",
+        "Name": "Prithvi Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "173.43 km",
+        "Starting Point": "Naubise, Dhading",
+        "Ending Point": "Prithvi Chowk, Pokhara"
+    },
+    {
+        "#": "5",
+        "Name": "Madan Ashrit Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "36.16 km",
+        "Starting Point": "Narayanghat, Chitwan",
+        "Ending Point": "Mugling, Chitwan"
+    },
+    {
+        "#": "6",
+        "Name": "B.P. Koirala Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "205.88 km",
+        "Starting Point": "Bhittamod Border, Jaleshwor",
+        "Ending Point": "Dhulikhel"
+    },
+    {
+        "#": "7",
+        "Name": "Mechi Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "391.06 km",
+        "Starting Point": "Kechana Border, Bhadrapur",
+        "Ending Point": "Taplejung"
+    },
+    {
+        "#": "8",
+        "Name": "Koshi Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "111.46 km",
+        "Starting Point": "Rani Border, Biratnagar",
+        "Ending Point": "myanglung"
+    },
+    {
+        "#": "9",
+        "Name": "Sagarmatha Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "178.97 km",
+        "Starting Point": "Kadmaha, Saptari",
+        "Ending Point": "Solusalleri Solukhumbu"
+    },
+    {
+        "#": "10",
+        "Name": "Siddhartha Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "146.94 km",
+        "Starting Point": "Sunauli Border",
+        "Ending Point": "Prithvi Chowk, Pokhara"
+    },
+    {
+        "#": "11",
+        "Name": "Rapti Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "168.68 km",
+        "Starting Point": "Ameliya, Dang",
+        "Ending Point": "Musikot, Rukum"
+    },
+    {
+        "#": "12",
+        "Name": "Ratna Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "113.08 km",
+        "Starting Point": "Jamuniya Border, Nepalgunj",
+        "Ending Point": "Bangesimal, Surkhet"
+    },
+    {
+        "#": "13",
+        "Name": "Karnali Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "233 km",
+        "Starting Point": "Surkhet, Bangesimal",
+        "Ending Point": "Jumla, Kalikot"
+    },
+    {
+        "#": "14",
+        "Name": "Mahakali Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "415.15 km",
+        "Starting Point": "Mohana Bridge, Dhangadhi Border",
+        "Ending Point": "Darchula"
+    },
+    {
+        "#": "15",
+        "Name": "Seti Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "65.96 km",
+        "Starting Point": "Syaule, Dadeldhura",
+        "Ending Point": "Samuwagad"
+    },
+    {
+        "#": "16",
+        "Name": "Kathmandu Ringroad",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "28 km",
+        "Starting Point": "",
+        "Ending Point": ""
+    },
+    {
+        "#": "17",
+        "Name": "Postal Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "1005 km",
+        "Starting Point": "",
+        "Ending Point": ""
+    },
+    {
+        "#": "18",
+        "Name": "Pushpa Lal Highway",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "1776 km",
+        "Starting Point": "Chiyabhanjyang, Panchthar",
+        "Ending Point": "Jhulaghat, Baitadi"
+    },
+    {
+        "#": "19",
+        "Name": "Shabha-Bramhadev",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "13.30 km",
+        "Starting Point": "",
+        "Ending Point": ""
+    },
+    {
+        "#": "20",
+        "Name": "Kathmandu-Terai Fast Track",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "81.80 km",
+        "Starting Point": "Khokana, Lalitpur",
+        "Ending Point": "Nijgadh, Bara"
+    },
+    {
+        "#": "21",
+        "Name": "Kathmandu Outer Ringroad",
+        "National Code": "",
+        "Asian Code": "",
+        "Length": "72.00 km",
+        "Starting Point": "",
+        "Ending Point": ""
+    }
+]

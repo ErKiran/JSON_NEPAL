@@ -1,0 +1,418 @@
+[
+    {
+        "#": "1",
+        "Name": "Birtamod - Chandragadhi Bhadrapur Road",
+        "Code": "",
+        "Length": "12.53 km",
+        "Starting Point": "Birtamod",
+        "Ending Point": "Chandragadhi, Bhadrapur"
+    },
+    {
+        "#": "2",
+        "Name": "Padajungi Damak - Gaurigunj Road",
+        "Code": "",
+        "Length": "21.96 km",
+        "Starting Point": "Padajungi",
+        "Ending Point": "Gaurigunj"
+    },
+    {
+        "#": "3",
+        "Name": "Bhardaha - Hanumannagar - Rajbiraj Road",
+        "Code": "",
+        "Length": "17.75 km",
+        "Starting Point": "Bhardaha",
+        "Ending Point": "Rajbiraj"
+    },
+    {
+        "#": "4",
+        "Name": "Rupani - Rajbiraj - Kunauli Road",
+        "Code": "",
+        "Length": "23.1 km",
+        "Starting Point": "Rupani",
+        "Ending Point": "Kunauli Border"
+    },
+    {
+        "#": "5",
+        "Name": "Chuharwa - Siraha - Madar Road",
+        "Code": "",
+        "Length": "26.66 km",
+        "Starting Point": "Chauharwa",
+        "Ending Point": "Madar Border"
+    },
+    {
+        "#": "6",
+        "Name": "Nawalpur - Malangawa Road",
+        "Code": "",
+        "Length": "26.63 km",
+        "Starting Point": "Nawalpur",
+        "Ending Point": "Malangawa Border NH 22"
+    },
+    {
+        "#": "7",
+        "Name": "Chandranigahapur - Gaur Road",
+        "Code": "",
+        "Length": "44.14 km",
+        "Starting Point": "Chandranigahpur",
+        "Ending Point": "Gaur Border"
+    },
+    {
+        "#": "8",
+        "Name": "Bardaghat - Pratappur - Surajpur Road",
+        "Code": "",
+        "Length": "23.05 km",
+        "Starting Point": "Bardaghat",
+        "Ending Point": "Harpur (Surajpur) Border"
+    },
+    {
+        "#": "9",
+        "Name": "Sunawal - Parasi Road",
+        "Code": "",
+        "Length": "8.95 km",
+        "Starting Point": "Sunawal",
+        "Ending Point": "Parasi"
+    },
+    {
+        "#": "10",
+        "Name": "Jitpur - Taulihawa - Khunuwa Road",
+        "Code": "",
+        "Length": "33.39 km",
+        "Starting Point": "Jitpur",
+        "Ending Point": "Khunuwa, Taulihawa Border"
+    },
+    {
+        "#": "11",
+        "Name": "Gorusinge - Sandhikharka Road",
+        "Code": "",
+        "Length": "69.13 km",
+        "Starting Point": "Gorusinge",
+        "Ending Point": "Sandhikharka"
+    },
+    {
+        "#": "12",
+        "Name": "Chanauta - Krishnanagar Road",
+        "Code": "",
+        "Length": "20.06 km",
+        "Starting Point": "Chanauta",
+        "Ending Point": "Krishnanagar"
+    },
+    {
+        "#": "13",
+        "Name": "Bhaluwang - Pyuthan Road",
+        "Code": "",
+        "Length": "68 km",
+        "Starting Point": "Bhaluwang",
+        "Ending Point": "khalanga,pyuthan"
+    },
+    {
+        "#": "14",
+        "Name": "Chakchake,(pyuthan) - rolpa Road",
+        "Code": "",
+        "Length": "64.79 km",
+        "Starting Point": "Chakchake",
+        "Ending Point": "Rolpa liwang"
+    },
+    {
+        "#": "15",
+        "Name": "Lamahi - Ghorahi - Tulsipur Road",
+        "Code": "",
+        "Length": "46.62 km",
+        "Starting Point": "Lamahi",
+        "Ending Point": "Tulsipur"
+    },
+    {
+        "#": "16",
+        "Name": "Bhurigaun - Gulariya Road",
+        "Code": "",
+        "Length": "32.31 km",
+        "Starting Point": "Bhurigaun",
+        "Ending Point": "Gulariya"
+    },
+    {
+        "#": "17",
+        "Name": "Junga - Rajapur Road",
+        "Code": "",
+        "Length": "28.12 km",
+        "Starting Point": "Junga",
+        "Ending Point": "Rajapur"
+    },
+    {
+        "#": "18",
+        "Name": "Birgunj - Kalaiya Road",
+        "Code": "",
+        "Length": "11.66 km",
+        "Starting Point": "Birgunj",
+        "Ending Point": "Kalaiya"
+    },
+    {
+        "#": "19",
+        "Name": "Bhainse - Bhimphedi Road",
+        "Code": "",
+        "Length": "12.00 km",
+        "Starting Point": "Bhainse",
+        "Ending Point": "Bhimphedi"
+    },
+    {
+        "#": "20",
+        "Name": "Palung - Kulekhani - Balaju bypass Road",
+        "Code": "",
+        "Length": "20.57 km",
+        "Starting Point": "Palung",
+        "Ending Point": "Kulekhani"
+    },
+    {
+        "#": "21",
+        "Name": "Kathmandu - Trisuli - Dhunche Road",
+        "Code": "",
+        "Length": "118.26 km",
+        "Starting Point": "Tripureshwor",
+        "Ending Point": "Dhunche"
+    },
+    {
+        "#": "22",
+        "Name": "Balkhu - Dachhinkali Road",
+        "Code": "",
+        "Length": "16.39 km",
+        "Starting Point": "Balkhu, Ring Road",
+        "Ending Point": "Dachhinkali"
+    },
+    {
+        "#": "23",
+        "Name": "Satdobato - Tikabhairab Road",
+        "Code": "",
+        "Length": "11.57 km",
+        "Starting Point": "Satdobato, Ring Road",
+        "Ending Point": "Tikabhairab"
+    },
+    {
+        "#": "24",
+        "Name": "Satdobato - Phulchoki Road",
+        "Code": "",
+        "Length": "23.24 km",
+        "Starting Point": "Satdobato, Ring Road",
+        "Ending Point": "Phulchoki"
+    },
+    {
+        "#": "25",
+        "Name": "Maharajgunj - Budhanilkantha Road",
+        "Code": "",
+        "Length": "4.89 km",
+        "Starting Point": "Maharajgunj, Ring Road",
+        "Ending Point": "Budhanilkantha Station"
+    },
+    {
+        "#": "26",
+        "Name": "Chabahil - Sankhu Road",
+        "Code": "",
+        "Length": "12.78 km",
+        "Starting Point": "Chabahil, Ring Road",
+        "Ending Point": "Sankhu"
+    },
+    {
+        "#": "27",
+        "Name": "Jorpati - Sundarijal Road",
+        "Code": "",
+        "Length": "7.13 km",
+        "Starting Point": "Jorpati",
+        "Ending Point": "Sundarijal"
+    },
+    {
+        "#": "28",
+        "Name": "Bhaktapur - Nagarkot Road",
+        "Code": "",
+        "Length": "23.00 km",
+        "Starting Point": "Tinkune, Bhaktapur",
+        "Ending Point": "Nagarkot"
+    },
+    {
+        "#": "29",
+        "Name": "Banepa - Panauti - Khopasi Road",
+        "Code": "",
+        "Length": "9.54 km",
+        "Starting Point": "Banepa",
+        "Ending Point": "Khopasi"
+    },
+    {
+        "#": "30",
+        "Name": "Panchkhal - Helambu Road",
+        "Code": "",
+        "Length": "63.00 km",
+        "Starting Point": "Lamidanda",
+        "Ending Point": "Helambu"
+    },
+    {
+        "#": "31",
+        "Name": "Dolalghat - Chautara Road",
+        "Code": "",
+        "Length": "25.11 km",
+        "Starting Point": "Bandeu",
+        "Ending Point": "Chautara"
+    },
+    {
+        "#": "32",
+        "Name": "Lamosangu - Tamakoshi - Ramechhap Road",
+        "Code": "",
+        "Length": "124.92 km",
+        "Starting Point": "Sunkoshi Bridge",
+        "Ending Point": "Ramechhap"
+    },
+    {
+        "#": "33",
+        "Name": "Tamakoshi (Busti) - Jiri Road",
+        "Code": "",
+        "Length": "38.03 km",
+        "Starting Point": "Tamakoshi Busti",
+        "Ending Point": "Jiri"
+    },
+    {
+        "#": "34",
+        "Name": "Malekhu - Dhading Road",
+        "Code": "",
+        "Length": "17.50 km",
+        "Starting Point": "Trishuli Bridge, Malekhu",
+        "Ending Point": "Dhading"
+    },
+    {
+        "#": "35",
+        "Name": "Anbukhaireni - Gorkha Road",
+        "Code": "",
+        "Length": "24.69 km",
+        "Starting Point": "Anbukhaireni",
+        "Ending Point": "Gorkha"
+    },
+    {
+        "#": "36",
+        "Name": "Dumre - Besisahar Road",
+        "Code": "",
+        "Length": "43.43 km",
+        "Starting Point": "Dumre",
+        "Ending Point": "Besisahar"
+    },
+    {
+        "#": "37",
+        "Name": "Bharatpur by - pass Road",
+        "Code": "",
+        "Length": "4.49 km",
+        "Starting Point": "Diyalo Bangalow",
+        "Ending Point": "Bharatpur MRM"
+    },
+    {
+        "#": "38",
+        "Name": "Fikkal - Pashupatinagar Road (Ratna Kumar Bantawa Highway)",
+        "Code": "",
+        "Length": "10.75 km",
+        "Starting Point": "Fikkal",
+        "Ending Point": "Pashupatinagar WB SH 12"
+    },
+    {
+        "#": "39",
+        "Name": "Biratnagar - Rangeli Road",
+        "Code": "",
+        "Length": "23.88 km",
+        "Starting Point": "Mahendra Chowk, Biratnagar",
+        "Ending Point": "Rangeli"
+    },
+    {
+        "#": "40",
+        "Name": "Hile - Basantapur - Terhathum Road",
+        "Code": "",
+        "Length": "48.00 km",
+        "Starting Point": "Hile",
+        "Ending Point": "Terhathum"
+    },
+    {
+        "#": "41",
+        "Name": "Pokhara - Baglung - Saragnkot Road",
+        "Code": "",
+        "Length": "4.80 km",
+        "Starting Point": "Pokhara",
+        "Ending Point": "Saragnkot"
+    },
+    {
+        "#": "42",
+        "Name": "Pokhara - Baglung - Beni Road",
+        "Code": "",
+        "Length": "90.00 km",
+        "Starting Point": "Prithvi Chowk, Pokhara",
+        "Ending Point": "Beni, Myagdi"
+    },
+    {
+        "#": "43",
+        "Name": "Bartung - Tansen - Ridi - Tamghas Road",
+        "Code": "",
+        "Length": "80.20 km",
+        "Starting Point": "Bartung",
+        "Ending Point": "Tamghas"
+    },
+    {
+        "#": "44",
+        "Name": "Bhairahawa - Lumbini Road",
+        "Code": "",
+        "Length": "22.78 km",
+        "Starting Point": "Bhairahawa",
+        "Ending Point": "Padaria Chouraha, Lumbini"
+    },
+    {
+        "#": "45",
+        "Name": "Lumbini - Taulihawa Road",
+        "Code": "",
+        "Length": "24.55 km",
+        "Starting Point": "Lumbini",
+        "Ending Point": "Taulihawa"
+    },
+    {
+        "#": "46",
+        "Name": "Nepalgunj - Gulariya Road",
+        "Code": "",
+        "Length": "35.22 km",
+        "Starting Point": "Birendrachowk",
+        "Ending Point": "Gulariya"
+    },
+    {
+        "#": "47",
+        "Name": "Chhinchu - Jajarkot Road",
+        "Code": "",
+        "Length": "107.00 km",
+        "Starting Point": "Chhinchu",
+        "Ending Point": "Jajarkot"
+    },
+    {
+        "#": "48",
+        "Name": "Birendranagar (Surkhet) - Dailekh Road",
+        "Code": "",
+        "Length": "67.00 km",
+        "Starting Point": "Birendranagar",
+        "Ending Point": "Dailekh"
+    },
+    {
+        "#": "49",
+        "Name": "Khodpe - Bajhang Road",
+        "Code": "",
+        "Length": "108.26 km",
+        "Starting Point": "Khodpe",
+        "Ending Point": "Chainpur, Bajhang"
+    },
+    {
+        "#": "50",
+        "Name": "Satbahjh - Baitadi - Jhulaghat Road",
+        "Code": "",
+        "Length": "37.18 km",
+        "Starting Point": "Satbanjh",
+        "Ending Point": "Jhulaghat, Baitadi"
+    },
+    {
+        "#": "51",
+        "Name": "Silgadhi - Sanfebagar Road",
+        "Code": "",
+        "Length": "67.00 km",
+        "Starting Point": "Silgadhi",
+        "Ending Point": "Sanfebagar"
+    },
+    {
+        "#": "52",
+        "Name": "Siddhicharan Lokmarg",
+        "Code": "स५२F52",
+        "Length": "170.00 km",
+        "Starting Point": "Mirchaiya",
+        "Ending Point": "Salleri"
+    }
+]

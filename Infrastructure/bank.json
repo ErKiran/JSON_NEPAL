@@ -1,0 +1,198 @@
+[
+    {
+        "SN": "1",
+        "Bank Name": "Nepal Bank Ltd",
+        "Established": "1937/11/15",
+        "Headquarter": "Dharmapath,Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "804.27"
+    },
+    {
+        "SN": "2",
+        "Bank Name": "Agriculture Development Bank Ltd",
+        "Established": "1968/01/21",
+        "Headquarter": "Ramshahpath, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "1393.79"
+    },
+    {
+        "SN": "3",
+        "Bank Name": "Nabil Bank Ltd",
+        "Established": "1984/07/12",
+        "Headquarter": "Beena Marg, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "804.32"
+    },
+    {
+        "SN": "4",
+        "Bank Name": "Nepal Investment Bank Ltd",
+        "Established": "1986/03/09",
+        "Headquarter": "Durbarmarg, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "1064.56"
+    },
+    {
+        "SN": "5",
+        "Bank Name": "Standard Chartered Bank Nepal Ltd",
+        "Established": "1987/02/28",
+        "Headquarter": "Nayabaneshwor, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "801.14"
+    },
+    {
+        "SN": "6",
+        "Bank Name": "Himalayan Bank Ltd",
+        "Established": "1993/01/18",
+        "Headquarter": "Kamaladi, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "811.45"
+    },
+    {
+        "SN": "7",
+        "Bank Name": "Nepal SBI Bank Ltd",
+        "Established": "1993/07/07",
+        "Headquarter": "Kesharmahal, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "804.69"
+    },
+    {
+        "SN": "8",
+        "Bank Name": "Nepal Bangaladesh Bank Ltd",
+        "Established": "1994/06/06",
+        "Headquarter": "Kamaladi, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "808.81"
+    },
+    {
+        "SN": "9",
+        "Bank Name": "Everest Bank Ltd",
+        "Established": "1994/10/18",
+        "Headquarter": "Lazimpat , Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "810.69"
+    },
+    {
+        "SN": "10",
+        "Bank Name": "Kumari Bank Ltd",
+        "Established": "2001/04/03",
+        "Headquarter": "Durbarmarg, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "596.95"
+    },
+    {
+        "SN": "11",
+        "Bank Name": "Laxmi Bank Ltd",
+        "Established": "2002/04/03",
+        "Headquarter": "Hattisar, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "822.17"
+    },
+    {
+        "SN": "12",
+        "Bank Name": "Citizens Bank International Ltd",
+        "Established": "2007/04/20",
+        "Headquarter": "Narayanhitipath, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "803.32"
+    },
+    {
+        "SN": "13",
+        "Bank Name": "Prime Commercial Bank Ltd",
+        "Established": "2007/09/24",
+        "Headquarter": "Kamalpokhari, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "803.33"
+    },
+    {
+        "SN": "14",
+        "Bank Name": "Sunrise Bank Ltd",
+        "Established": "2007/10/12",
+        "Headquarter": "Gairidhara, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "815.26"
+    },
+    {
+        "SN": "15",
+        "Bank Name": "Century Commercial Bank Ltd",
+        "Established": "2011/03/10",
+        "Headquarter": "Putalisadak , Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "806.34"
+    },
+    {
+        "SN": "16",
+        "Bank Name": "Sanima Bank Ltd",
+        "Established": "2012/02/15",
+        "Headquarter": "Nagpokhari,  Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "800.13"
+    },
+    {
+        "SN": "17",
+        "Bank Name": "Machhapuchhre Bank Ltd",
+        "Established": "2012/07/09",
+        "Headquarter": "Lazimpat, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "805.57"
+    },
+    {
+        "SN": "18",
+        "Bank Name": "NIC Asia Bank Ltd",
+        "Established": "2013/06/30",
+        "Headquarter": "Thapathali, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "803.11"
+    },
+    {
+        "SN": "19",
+        "Bank Name": "Global IME Bank Ltd",
+        "Established": "2014/04/09",
+        "Headquarter": "Panipokhari, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "888.84"
+    },
+    {
+        "SN": "20",
+        "Bank Name": "NMB Bank Ltd",
+        "Established": "2015/10/18",
+        "Headquarter": "Babarmahal, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "646.18"
+    },
+    {
+        "SN": "21",
+        "Bank Name": "Prabhu Bank Ltd",
+        "Established": "2016/02/12",
+        "Headquarter": "Babarmahal, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "800.13"
+    },
+    {
+        "SN": "22",
+        "Bank Name": "Siddhartha Bank Ltd",
+        "Established": "2016/07/21",
+        "Headquarter": "Hattisar, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "846.44"
+    },
+    {
+        "SN": "23",
+        "Bank Name": "Bank of Kathmandu Ltd",
+        "Established": "2016/07/14",
+        "Headquarter": "Kamaladi, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "624.54"
+    },
+    {
+        "SN": "24",
+        "Bank Name": "Civil Bank Ltd",
+        "Established": "2016/10/17",
+        "Headquarter": "Kamaladi, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "725.93"
+    },
+    {
+        "SN": "25",
+        "Bank Name": "Nepal Credit and Commerce Bank Ltd",
+        "Established": "2017/01/01",
+        "Headquarter": "Bagbazar, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "467.91"
+    },
+    {
+        "SN": "26",
+        "Bank Name": "Janata Bank Nepal Limited",
+        "Established": "2017/04/07",
+        "Headquarter": "Thapathali, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "800.08"
+    },
+    {
+        "SN": "27",
+        "Bank Name": "Rastriya Banijya Bank Ltd",
+        "Established": "2018/05/02",
+        "Headquarter": "Singhadurbarplaza,Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "900.48"
+    },
+    {
+        "SN": "28",
+        "Bank Name": "Mega Bank Nepal Ltd",
+        "Established": "2018/05/13",
+        "Headquarter": "Kamaladi, Kathmandu",
+        "Paid up Capital (Rs. In Crore)": "928.68"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "Location served": "Baglung",
+        "District": "Baglung",
+        "ICAO": "VNBL",
+        "IATA": "BGL",
+        "Airport name": "Baglung Airport",
+        "Coordinates": "28°12′46″N 083°39′59″E﻿ / ﻿28.21278°N 83.66639°E﻿ / 28.21278; 83.66639﻿ (Baglung Airport)"
+    },
+    {
+        "Location served": "Bajura",
+        "District": "Bajura",
+        "ICAO": "VNBR",
+        "IATA": "BJU",
+        "Airport name": "Bajura Airport",
+        "Coordinates": "29°30′10″N 081°40′10″E﻿ / ﻿29.50278°N 81.66944°E﻿ / 29.50278; 81.66944﻿ (Bajura Airport)"
+    },
+    {
+        "Location served": "Bhadrapur",
+        "District": "Jhapa",
+        "ICAO": "VNCG",
+        "IATA": "BDP",
+        "Airport name": "Bhadrapur Airport",
+        "Coordinates": "26°34′14″N 088°04′45″E﻿ / ﻿26.57056°N 88.07917°E﻿ / 26.57056; 88.07917﻿ (Bhadrapur Airport)"
+    },
+    {
+        "Location served": "Bharatpur",
+        "District": "Chitwan",
+        "ICAO": "VNBP",
+        "IATA": "BHR",
+        "Airport name": "Bharatpur Airport",
+        "Coordinates": "27°40′41″N 084°25′46″E﻿ / ﻿27.67806°N 84.42944°E﻿ / 27.67806; 84.42944﻿ (Bharatpur Airport)"
+    },
+    {
+        "Location served": "Bharatpur",
+        "District": "Chitwan",
+        "ICAO": "VNMG",
+        "IATA": "MEY",
+        "Airport name": "Meghauli Airport",
+        "Coordinates": "27°34′37″N 084°13′42″E﻿ / ﻿27.57694°N 84.22833°E﻿ / 27.57694; 84.22833﻿ (Meghauli Airport)"
+    },
+    {
+        "Location served": "Bhojpur",
+        "District": "Bhojpur",
+        "ICAO": "VNBJ",
+        "IATA": "BHP",
+        "Airport name": "Bhojpur Airport",
+        "Coordinates": "27°08′51″N 087°03′03″E﻿ / ﻿27.14750°N 87.05083°E﻿ / 27.14750; 87.05083﻿ (Bhojpur Airport)"
+    },
+    {
+        "Location served": "Biratnagar",
+        "District": "Morang",
+        "ICAO": "VNVT",
+        "IATA": "BIR",
+        "Airport name": "Biratnagar Airport",
+        "Coordinates": "26°28′53″N 087°15′50″E﻿ / ﻿26.48139°N 87.26389°E﻿ / 26.48139; 87.26389﻿ (Biratnagar Airport)"
+    },
+    {
+        "Location served": "Birendranagar",
+        "District": "Surkhet",
+        "ICAO": "VNSK",
+        "IATA": "SKH",
+        "Airport name": "Surkhet Airport",
+        "Coordinates": "28°35′09″N 081°38′07″E﻿ / ﻿28.58583°N 81.63528°E﻿ / 28.58583; 81.63528﻿ (Surkhet Airport)"
+    },
+    {
+        "Location served": "Bowang",
+        "District": "Baglung",
+        "ICAO": "VNDR",
+        "IATA": "",
+        "Airport name": "Dhorpatan Airport",
+        "Coordinates": "28°31′00″N 083°02′00″E﻿ / ﻿28.51667°N 83.03333°E﻿ / 28.51667; 83.03333﻿ (Dhorpatan Airport)"
+    },
+    {
+        "Location served": "Chandannath",
+        "District": "Jumla",
+        "ICAO": "VNJL",
+        "IATA": "JUM",
+        "Airport name": "Jumla Airport",
+        "Coordinates": "29°16′26″N 082°11′23″E﻿ / ﻿29.27389°N 82.18972°E﻿ / 29.27389; 82.18972﻿ (Jumla Airport)"
+    },
+    {
+        "Location served": "Chaurjahari",
+        "District": "Western Rukum",
+        "ICAO": "VNCJ",
+        "IATA": "RUK",
+        "Airport name": "Rukum Chaurjahari Airport[1]",
+        "Coordinates": "28°37′38″N 082°11′39″E﻿ / ﻿28.62722°N 82.19417°E﻿ / 28.62722; 82.19417﻿ (Rukumkot Chaurjahari Airport)"
+    },
+    {
+        "Location served": "Dhangadhi",
+        "District": "Kailali",
+        "ICAO": "VNDH",
+        "IATA": "DHI",
+        "Airport name": "Dhangadhi Airport",
+        "Coordinates": "28°45′12″N 080°34′55″E﻿ / ﻿28.75333°N 80.58194°E﻿ / 28.75333; 80.58194﻿ (Dhangadhi Airport)"
+    },
+    {
+        "Location served": "Dolpa",
+        "District": "Dolpa",
+        "ICAO": "VNDP",
+        "IATA": "DOP",
+        "Airport name": "Dolpa Airport",
+        "Coordinates": "28°59′09″N 082°49′09″E﻿ / ﻿28.98583°N 82.81917°E﻿ / 28.98583; 82.81917﻿ (Dolpa Airport)"
+    },
+    {
+        "Location served": "Dipayal Silgadhi",
+        "District": "Doti",
+        "ICAO": "VNDT",
+        "IATA": "SIH",
+        "Airport name": "Doti Airport[2]",
+        "Coordinates": "29°15′47″N 080°56′10″E﻿ / ﻿29.26306°N 80.93611°E﻿ / 29.26306; 80.93611﻿ (Silgadhi Airport)"
+    },
+    {
+        "Location served": "Gokuleshwor, Darchula",
+        "District": "Darchula",
+        "ICAO": "VNDL",
+        "IATA": "",
+        "Airport name": "Darchula Airport",
+        "Coordinates": "29°40′09″N 080°32′54″E﻿ / ﻿29.66917°N 80.54833°E﻿ / 29.66917; 80.54833﻿ (Darchula Airport)"
+    },
+    {
+        "Location served": "Janakpur",
+        "District": "Dhanusha",
+        "ICAO": "VNJP",
+        "IATA": "JKR",
+        "Airport name": "Janakpur Airport",
+        "Coordinates": "26°42′31″N 085°55′20″E﻿ / ﻿26.70861°N 85.92222°E﻿ / 26.70861; 85.92222﻿ (Janakpur Airport)"
+    },
+    {
+        "Location served": "Jaya Prithvi",
+        "District": "Bajhang",
+        "ICAO": "VNBG",
+        "IATA": "BJH",
+        "Airport name": "Bajhang Airport",
+        "Coordinates": "29°32′18″N 081°11′02″E﻿ / ﻿29.53833°N 81.18389°E﻿ / 29.53833; 81.18389﻿ (Bajhang Airport)"
+    },
+    {
+        "Location served": "Jitpur Simara",
+        "District": "Bara",
+        "ICAO": "VNSI",
+        "IATA": "SIF",
+        "Airport name": "Simara Airport",
+        "Coordinates": "27°09′34″N 084°58′48″E﻿ / ﻿27.15944°N 84.98000°E﻿ / 27.15944; 84.98000﻿ (Simara Airport)"
+    },
+    {
+        "Location served": "Jiri",
+        "District": "Dolakha",
+        "ICAO": "VNJI",
+        "IATA": "JIR",
+        "Airport name": "Jiri Airport",
+        "Coordinates": "27°37′45″N 086°13′45″E﻿ / ﻿27.62917°N 86.22917°E﻿ / 27.62917; 86.22917﻿ (Jiri Airport)"
+    },
+    {
+        "Location served": "Jomsom",
+        "District": "Mustang",
+        "ICAO": "VNJS",
+        "IATA": "JMO",
+        "Airport name": "Jomsom Airport",
+        "Coordinates": "28°46′47″N 083°43′21″E﻿ / ﻿28.77972°N 83.72250°E﻿ / 28.77972; 83.72250﻿ (Jomsom Airport)"
+    },
+    {
+        "Location served": "Kamal Bazar, Achham",
+        "District": "Accham",
+        "ICAO": "",
+        "IATA": "",
+        "Airport name": "Kamal Bazar Airport",
+        "Coordinates": "29°03′10″N 081°20′34″E﻿ / ﻿29.05278°N 81.34278°E﻿ / 29.05278; 81.34278﻿ (Kamal Bazar Airport)"
+    },
+    {
+        "Location served": "Kangeldanda",
+        "District": "Solukhumbu",
+        "ICAO": "VNKL",
+        "IATA": "",
+        "Airport name": "Kangeldanda Airport",
+        "Coordinates": "27°24′39″N 086°38′45″E﻿ / ﻿27.41083°N 86.64583°E﻿ / 27.41083; 86.64583﻿ (Kangeldanda Airport)"
+    },
+    {
+        "Location served": "Kathmandu",
+        "District": "Kathmandu",
+        "ICAO": "VNKT",
+        "IATA": "KTM",
+        "Airport name": "Tribhuvan International Airport",
+        "Coordinates": "27°41′47″N 085°21′32″E﻿ / ﻿27.69639°N 85.35889°E﻿ / 27.69639; 85.35889﻿ (Tribhuvan International Airport)"
+    },
+    {
+        "Location served": "Khanidanda, Khotang",
+        "District": "Khotang",
+        "ICAO": "VNKD",
+        "IATA": "",
+        "Airport name": "Man Maya Airport",
+        "Coordinates": "27°10′52″N 086°46′19″E﻿ / ﻿27.18111°N 86.77194°E﻿ / 27.18111; 86.77194﻿ (Khanidanda Airport)"
+    },
+    {
+        "Location served": "Khotang Bazar",
+        "District": "Khotang",
+        "ICAO": "VNTH",
+        "IATA": "",
+        "Airport name": "Thamkharka Airport",
+        "Coordinates": "27°02′47″N 086°51′29″E﻿ / ﻿27.04639°N 86.85806°E﻿ / 27.04639; 86.85806﻿ (Thamkharka Airport)"
+    },
+    {
+        "Location served": "Lamidanda",
+        "District": "Khotang",
+        "ICAO": "VNLD",
+        "IATA": "LDN",
+        "Airport name": "Lamidanda Airport",
+        "Coordinates": "27°15′10″N 086°40′17″E﻿ / ﻿27.25278°N 86.67139°E﻿ / 27.25278; 86.67139﻿ (Lamidanda Airport)"
+    },
+    {
+        "Location served": "Langtang",
+        "District": "Rasuwa",
+        "ICAO": "VNLT",
+        "IATA": "LTG",
+        "Airport name": "Langtang Airport",
+        "Coordinates": "28°11′56″N 085°35′11″E﻿ / ﻿28.19889°N 85.58639°E﻿ / 28.19889; 85.58639﻿ (Langtang Airport)"
+    },
+    {
+        "Location served": "Lukla",
+        "District": "Solukhumbu",
+        "ICAO": "VNLK",
+        "IATA": "LUA",
+        "Airport name": "Tenzing-Hillary Airport",
+        "Coordinates": "27°41′16″N 086°43′53″E﻿ / ﻿27.68778°N 86.73139°E﻿ / 27.68778; 86.73139﻿ (Tenzing-Hillary Airport)"
+    },
+    {
+        "Location served": "Mahendranagar",
+        "District": "Kanchanpur",
+        "ICAO": "VNMN",
+        "IATA": "XMG",
+        "Airport name": "Mahendranagar Airport",
+        "Coordinates": "28°57′48″N 080°08′53″E﻿ / ﻿28.96333°N 80.14806°E﻿ / 28.96333; 80.14806﻿ (Mahendranagar Airport)"
+    },
+    {
+        "Location served": "Manang",
+        "District": "Manang",
+        "ICAO": "VNMA",
+        "IATA": "NGX",
+        "Airport name": "Manang Airport",
+        "Coordinates": "28°38′29″N 084°05′09″E﻿ / ﻿28.64139°N 84.08583°E﻿ / 28.64139; 84.08583﻿ (Manang Airport)"
+    },
+    {
+        "Location served": "Nepalgunj",
+        "District": "Banke",
+        "ICAO": "VNNG",
+        "IATA": "KEP",
+        "Airport name": "Nepalgunj Airport",
+        "Coordinates": "28°06′13″N 081°40′01″E﻿ / ﻿28.10361°N 81.66694°E﻿ / 28.10361; 81.66694﻿ (Nepalgunj Airport)"
+    },
+    {
+        "Location served": "Pahada",
+        "District": "Dolpa",
+        "ICAO": "VNMC",
+        "IATA": "",
+        "Airport name": "Masinechaur Airport",
+        "Coordinates": "29°03′31″N 082°44′41″E﻿ / ﻿29.05861°N 82.74472°E﻿ / 29.05861; 82.74472﻿ (Masinechaur Airport)"
+    },
+    {
+        "Location served": "Palungtar",
+        "District": "Gorkha",
+        "ICAO": "VNGK",
+        "IATA": "GKH",
+        "Airport name": "Palungtar Airport",
+        "Coordinates": "28°02′15″N 084°27′57″E﻿ / ﻿28.03750°N 84.46583°E﻿ / 28.03750; 84.46583﻿ (Palungtar Airport)"
+    },
+    {
+        "Location served": "Patan, Baitadi",
+        "District": "Baitadi",
+        "ICAO": "VNBT",
+        "IATA": "",
+        "Airport name": "Baitadi Airport[3]",
+        "Coordinates": "29°27′50″N 080°32′58″E﻿ / ﻿29.46389°N 80.54944°E﻿ / 29.46389; 80.54944﻿ (Patan Airport)"
+    },
+    {
+        "Location served": "Pokhara",
+        "District": "Kaski",
+        "ICAO": "VNPK",
+        "IATA": "PKR",
+        "Airport name": "Pokhara Airport",
+        "Coordinates": "28°12′03″N 083°58′55″E﻿ / ﻿28.20083°N 83.98194°E﻿ / 28.20083; 83.98194﻿ (Pokhara Airport)"
+    },
+    {
+        "Location served": "Rajbiraj",
+        "District": "Saptari",
+        "ICAO": "VNRB",
+        "IATA": "RJB",
+        "Airport name": "Rajbiraj Airport",
+        "Coordinates": "26°30′30″N 086°44′15″E﻿ / ﻿26.50833°N 86.73750°E﻿ / 26.50833; 86.73750﻿ (Rajbiraj Airport)"
+    },
+    {
+        "Location served": "Manthali",
+        "District": "Ramechhap",
+        "ICAO": "VNRC",
+        "IATA": "RHP",
+        "Airport name": "Ramechhap Airport",
+        "Coordinates": "27°23′38″N 086°03′41″E﻿ / ﻿27.39389°N 86.06139°E﻿ / 27.39389; 86.06139﻿ (Ramechhap Airport)"
+    },
+    {
+        "Location served": "Rara National Park",
+        "District": "Mugu",
+        "ICAO": "VNRR",
+        "IATA": "",
+        "Airport name": "Talcha Airport",
+        "Coordinates": "29°31′18″N 082°08′49″E﻿ / ﻿29.52167°N 82.14694°E﻿ / 29.52167; 82.14694﻿ (Talcha Airport)"
+    },
+    {
+        "Location served": "Rolpa",
+        "District": "Rolpa",
+        "ICAO": "VNRP",
+        "IATA": "RPA",
+        "Airport name": "Rolpa Airport",
+        "Coordinates": "28°16′03″N 082°45′23″E﻿ / ﻿28.26750°N 82.75639°E﻿ / 28.26750; 82.75639﻿ (Rolpa Airport)"
+    },
+    {
+        "Location served": "Musikot",
+        "District": "Western Rukum",
+        "ICAO": "VNSL",
+        "IATA": "",
+        "Airport name": "Rukum Salle Airport[4]",
+        "Coordinates": "28°38′15″N 082°26′59″E﻿ / ﻿28.63750°N 82.44972°E﻿ / 28.63750; 82.44972﻿ (Rukumkot Airport)"
+    },
+    {
+        "Location served": "Rumjatar",
+        "District": "Okhladhunga",
+        "ICAO": "VNRT",
+        "IATA": "RUM",
+        "Airport name": "Rumjatar Airport",
+        "Coordinates": "27°18′13″N 086°33′02″E﻿ / ﻿27.30361°N 86.55056°E﻿ / 27.30361; 86.55056﻿ (Rumjatar Airport)"
+    },
+    {
+        "Location served": "Sanphebagar",
+        "District": "Accham",
+        "ICAO": "VNSR",
+        "IATA": "FEB",
+        "Airport name": "Sanphebagar Airport",
+        "Coordinates": "29°14′14″N 081°12′55″E﻿ / ﻿29.23722°N 81.21528°E﻿ / 29.23722; 81.21528﻿ (Sanfebagar Airport)"
+    },
+    {
+        "Location served": "Siddharthanagar",
+        "District": "Rupandehi",
+        "ICAO": "VNBW",
+        "IATA": "BWA",
+        "Airport name": "Gautam Buddha Airport",
+        "Coordinates": "27°30′20″N 083°24′58″E﻿ / ﻿27.50556°N 83.41611°E﻿ / 27.50556; 83.41611﻿ (Gautam Buddha Airport)"
+    },
+    {
+        "Location served": "Simikot",
+        "District": "Humla",
+        "ICAO": "VNST",
+        "IATA": "IMK",
+        "Airport name": "Simikot Airport",
+        "Coordinates": "29°58′16″N 081°49′08″E﻿ / ﻿29.97111°N 81.81889°E﻿ / 29.97111; 81.81889﻿ (Simikot Airport)"
+    },
+    {
+        "Location served": "Solu Dudhkunda",
+        "District": "Solukhumbu",
+        "ICAO": "VNPL",
+        "IATA": "PPL",
+        "Airport name": "Phaplu Airport",
+        "Coordinates": "27°31′05″N 086°35′04″E﻿ / ﻿27.51806°N 86.58444°E﻿ / 27.51806; 86.58444﻿ (Phaplu Airport)"
+    },
+    {
+        "Location served": "Syangboche",
+        "District": "Solukhumbu",
+        "ICAO": "VNSB",
+        "IATA": "SYH",
+        "Airport name": "Syangboche Airport",
+        "Coordinates": "27°48′39″N 086°42′45″E﻿ / ﻿27.81083°N 86.71250°E﻿ / 27.81083; 86.71250﻿ (Syangboche Airport)"
+    },
+    {
+        "Location served": "Taplejung",
+        "District": "Taplejung",
+        "ICAO": "VNTJ",
+        "IATA": "TPJ",
+        "Airport name": "Taplejung Airport",
+        "Coordinates": "27°21′04″N 087°41′44″E﻿ / ﻿27.35111°N 87.69556°E﻿ / 27.35111; 87.69556﻿ (Suketar Airport)"
+    },
+    {
+        "Location served": "Tikapur",
+        "District": "Kailali",
+        "ICAO": "VNTP",
+        "IATA": "TPU",
+        "Airport name": "Tikapur Airport",
+        "Coordinates": "28°31′19″N 081°07′20″E﻿ / ﻿28.52194°N 81.12222°E﻿ / 28.52194; 81.12222﻿ (Tikapur Airport)"
+    },
+    {
+        "Location served": "Tulsipur",
+        "District": "Dang",
+        "ICAO": "VNDG",
+        "IATA": "DNP",
+        "Airport name": "Dang Airport",
+        "Coordinates": "28°06′40″N 082°17′39″E﻿ / ﻿28.11111°N 82.29417°E﻿ / 28.11111; 82.29417﻿ (Dang Airport)"
+    },
+    {
+        "Location served": "Tumlingtar",
+        "District": "Sankhuwasabha",
+        "ICAO": "VNTR",
+        "IATA": "TMI",
+        "Airport name": "Tumlingtar Airport",
+        "Coordinates": "27°18′54″N 087°11′36″E﻿ / ﻿27.31500°N 87.19333°E﻿ / 27.31500; 87.19333﻿ (Tumlingtar Airport)"
+    }
+]

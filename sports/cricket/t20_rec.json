@@ -1,0 +1,513 @@
+[
+    {
+        "Cap": "Cap",
+        "Name": "Name",
+        "First": "First",
+        "Last": "Last",
+        "Mat": "Mat",
+        "Batting": "Runs",
+        "Batting__1": "HS",
+        "Batting__2": "Avg",
+        "Bowling": "Balls",
+        "Bowling__1": "Wkt",
+        "Bowling__2": "BBI",
+        "Bowling__3": "Ave",
+        "Fielding": "Ca",
+        "Fielding__1": "St",
+        "Ref(s)": "Ref(s)"
+    },
+    {
+        "Cap": 1,
+        "Name": "Binod Bhandari",
+        "First": 2014,
+        "Last": 2019,
+        "Mat": 11,
+        "Batting": 52,
+        "Batting__1": 21,
+        "Batting__2": 5.77,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 5,
+        "Fielding__1": 2,
+        "Ref(s)": [
+            8
+        ]
+    },
+    {
+        "Cap": 2,
+        "Name": "Naresh Budhayer",
+        "First": 2014,
+        "Last": 2014,
+        "Mat": 4,
+        "Batting": 7,
+        "Batting__1": 5,
+        "Batting__2": 3.5,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            9
+        ]
+    },
+    {
+        "Cap": 3,
+        "Name": "Shakti Gauchan",
+        "First": 2014,
+        "Last": 2015,
+        "Mat": 9,
+        "Batting": 13,
+        "Batting__1": "6*",
+        "Batting__2": 4.33,
+        "Bowling": 180,
+        "Bowling__1": 8,
+        "Bowling__2": "3/9",
+        "Bowling__3": 21.12,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            10
+        ]
+    },
+    {
+        "Cap": 4,
+        "Name": "Paras Khadka",
+        "First": 2014,
+        "Last": 2019,
+        "Mat": 15,
+        "Batting": 290,
+        "Batting__1": 54,
+        "Batting__2": 22.3,
+        "Bowling": 180,
+        "Bowling__1": 2,
+        "Bowling__2": "1/3",
+        "Bowling__3": 97.5,
+        "Fielding": 9,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            11
+        ]
+    },
+    {
+        "Cap": 5,
+        "Name": "Subash Khakurel",
+        "First": 2014,
+        "Last": 2015,
+        "Mat": 8,
+        "Batting": 112,
+        "Batting__1": 56,
+        "Batting__2": 14,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 2,
+        "Fielding__1": 3,
+        "Ref(s)": [
+            12
+        ]
+    },
+    {
+        "Cap": 6,
+        "Name": "Gyanendra Malla",
+        "First": 2014,
+        "Last": 2019,
+        "Mat": 15,
+        "Batting": 188,
+        "Batting__1": 48,
+        "Batting__2": 13.42,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 8,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            13
+        ]
+    },
+    {
+        "Cap": 7,
+        "Name": "Jitendra Mukhiya",
+        "First": 2014,
+        "Last": 2015,
+        "Mat": 4,
+        "Batting": 0,
+        "Batting__1": "0*",
+        "Batting__2": "–",
+        "Bowling": 60,
+        "Bowling__1": 4,
+        "Bowling__2": "3/18",
+        "Bowling__3": 14,
+        "Fielding": 1,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            14
+        ]
+    },
+    {
+        "Cap": 8,
+        "Name": "Basanta Regmi",
+        "First": 2014,
+        "Last": 2019,
+        "Mat": 13,
+        "Batting": 22,
+        "Batting__1": 11,
+        "Batting__2": 3.66,
+        "Bowling": 271,
+        "Bowling__1": 18,
+        "Bowling__2": "4/16",
+        "Bowling__3": 15.55,
+        "Fielding": 2,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            15
+        ]
+    },
+    {
+        "Cap": 9,
+        "Name": "Sagar Pun",
+        "First": 2014,
+        "Last": 2015,
+        "Mat": 9,
+        "Batting": 90,
+        "Batting__1": 20,
+        "Batting__2": 10,
+        "Bowling": 141,
+        "Bowling__1": 6,
+        "Bowling__2": "3/26",
+        "Bowling__3": 21.83,
+        "Fielding": 2,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            16
+        ]
+    },
+    {
+        "Cap": 10,
+        "Name": "Sompal Kami",
+        "First": 2014,
+        "Last": 2019,
+        "Mat": 15,
+        "Batting": 112,
+        "Batting__1": 40,
+        "Batting__2": 16,
+        "Bowling": 306,
+        "Bowling__1": 17,
+        "Bowling__2": "2/13",
+        "Bowling__3": 21.35,
+        "Fielding": 1,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            17
+        ]
+    },
+    {
+        "Cap": 11,
+        "Name": "Sharad Vesawkar",
+        "First": 2014,
+        "Last": 2018,
+        "Mat": 11,
+        "Batting": 199,
+        "Batting__1": 40,
+        "Batting__2": 19.9,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 3,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            18
+        ]
+    },
+    {
+        "Cap": 12,
+        "Name": "Amrit Bhattarai",
+        "First": 2014,
+        "Last": 2014,
+        "Mat": 1,
+        "Batting": 2,
+        "Batting__1": 2,
+        "Batting__2": 2,
+        "Bowling": 18,
+        "Bowling__1": 1,
+        "Bowling__2": "1/12",
+        "Bowling__3": 12,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            19
+        ]
+    },
+    {
+        "Cap": 13,
+        "Name": "Rajesh Pulami",
+        "First": 2014,
+        "Last": 2015,
+        "Mat": 6,
+        "Batting": 52,
+        "Batting__1": 25,
+        "Batting__2": 8.66,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            20
+        ]
+    },
+    {
+        "Cap": 14,
+        "Name": "Pradeep Airee",
+        "First": 2015,
+        "Last": 2019,
+        "Mat": 9,
+        "Batting": 67,
+        "Batting__1": 29,
+        "Batting__2": 7.44,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 4,
+        "Fielding__1": 1,
+        "Ref(s)": [
+            21
+        ]
+    },
+    {
+        "Cap": 15,
+        "Name": "Karan KC",
+        "First": 2015,
+        "Last": 2019,
+        "Mat": 9,
+        "Batting": 39,
+        "Batting__1": 20,
+        "Batting__2": 7.8,
+        "Bowling": 156,
+        "Bowling__1": 9,
+        "Bowling__2": "2/13",
+        "Bowling__3": 25.88,
+        "Fielding": 2,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            22
+        ]
+    },
+    {
+        "Cap": 16,
+        "Name": "Avinash Karn",
+        "First": 2015,
+        "Last": 2015,
+        "Mat": 2,
+        "Batting": 4,
+        "Batting__1": 4,
+        "Batting__2": 4,
+        "Bowling": 48,
+        "Bowling__1": 1,
+        "Bowling__2": "1/31",
+        "Bowling__3": 49,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            23
+        ]
+    },
+    {
+        "Cap": 17,
+        "Name": "Anil Mandal",
+        "First": 2015,
+        "Last": 2015,
+        "Mat": 2,
+        "Batting": 11,
+        "Batting__1": 9,
+        "Batting__2": 5.5,
+        "Bowling": 0,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 1,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            24
+        ]
+    },
+    {
+        "Cap": 18,
+        "Name": "Aarif Sheikh",
+        "First": 2018,
+        "Last": 2018,
+        "Mat": 1,
+        "Batting": "–",
+        "Batting__1": "–",
+        "Batting__2": "–",
+        "Bowling": 0,
+        "Bowling__1": "–",
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 1,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            25
+        ]
+    },
+    {
+        "Cap": 19,
+        "Name": "Dipendra Singh Airee",
+        "First": 2018,
+        "Last": 2019,
+        "Mat": 4,
+        "Batting": 53,
+        "Batting__1": "47*",
+        "Batting__2": 26.5,
+        "Bowling": 0,
+        "Bowling__1": "–",
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 1,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            26
+        ]
+    },
+    {
+        "Cap": 20,
+        "Name": "Sandeep Lamichhane[a]",
+        "First": 2018,
+        "Last": 2019,
+        "Mat": 4,
+        "Batting": 2,
+        "Batting__1": "2*",
+        "Batting__2": "–",
+        "Bowling": 84,
+        "Bowling__1": 5,
+        "Bowling__2": "2/19",
+        "Bowling__3": 22,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            27
+        ]
+    },
+    {
+        "Cap": 21,
+        "Name": "Lalit Rajbanshi",
+        "First": 2018,
+        "Last": 2019,
+        "Mat": 3,
+        "Batting": "–",
+        "Batting__1": "–",
+        "Batting__2": "–",
+        "Bowling": 48,
+        "Bowling__1": 2,
+        "Bowling__2": "2/16",
+        "Bowling__3": 29,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            28
+        ]
+    },
+    {
+        "Cap": 22,
+        "Name": "Anil Sah",
+        "First": 2018,
+        "Last": 2018,
+        "Mat": 1,
+        "Batting": "–",
+        "Batting__1": "–",
+        "Batting__2": "–",
+        "Bowling": 0,
+        "Bowling__1": "–",
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            29
+        ]
+    },
+    {
+        "Cap": 23,
+        "Name": "Abinash Bohara",
+        "First": 2019,
+        "Last": 2019,
+        "Mat": 3,
+        "Batting": "–",
+        "Batting__1": "–",
+        "Batting__2": "–",
+        "Bowling": 60,
+        "Bowling__1": 6,
+        "Bowling__2": "3/20",
+        "Bowling__3": 12,
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            30
+        ]
+    },
+    {
+        "Cap": 24,
+        "Name": "Sundeep Jora",
+        "First": 2019,
+        "Last": 2019,
+        "Mat": 3,
+        "Batting": 82,
+        "Batting__1": "53*",
+        "Batting__2": 41,
+        "Bowling": 0,
+        "Bowling__1": "–",
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 2,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            31
+        ]
+    },
+    {
+        "Cap": 25,
+        "Name": "Rohit Paudel",
+        "First": 2019,
+        "Last": 2019,
+        "Mat": 1,
+        "Batting": 4,
+        "Batting__1": 4,
+        "Batting__2": 4,
+        "Bowling": 0,
+        "Bowling__1": "–",
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 0,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            32
+        ]
+    },
+    {
+        "Cap": 26,
+        "Name": "Pawan Sarraf",
+        "First": 2019,
+        "Last": 2019,
+        "Mat": 2,
+        "Batting": 18,
+        "Batting__1": 18,
+        "Batting__2": 9,
+        "Bowling": 6,
+        "Bowling__1": 0,
+        "Bowling__2": "–",
+        "Bowling__3": "–",
+        "Fielding": 2,
+        "Fielding__1": 0,
+        "Ref(s)": [
+            33
+        ]
+    }
+]

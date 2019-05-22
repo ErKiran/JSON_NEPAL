@@ -1,0 +1,30 @@
+[
+    {
+        "Period": "1985–1990",
+        "Life expectancy inYears": "52.1"
+    },
+    {
+        "Period": "1990–1995",
+        "Life expectancy inYears": "56.4"
+    },
+    {
+        "Period": "1995–2000",
+        "Life expectancy inYears": "60.5"
+    },
+    {
+        "Period": "2000–2005",
+        "Life expectancy inYears": "64.0"
+    },
+    {
+        "Period": "2005–2010",
+        "Life expectancy inYears": "66.7"
+    },
+    {
+        "Period": "2010–2015",
+        "Life expectancy inYears": "68.9"
+    },
+    {
+        "Period": "",
+        "Life expectancy inYears": ""
+    }
+]

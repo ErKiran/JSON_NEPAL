@@ -1,0 +1,62 @@
+[
+    {
+        "Order": "1",
+        "Position": "President"
+    },
+    {
+        "Order": "2",
+        "Position": "Vice president"
+    },
+    {
+        "Order": "3",
+        "Position": "Prime Minister"
+    },
+    {
+        "Order": "4",
+        "Position": "Chief justice, Speaker of Parliament , Chairman of National Assembly"
+    },
+    {
+        "Order": "5",
+        "Position": "Former President, Vice Prime-Minister , Former President, Former Prime Minister, Former Chairman Of Cabinet"
+    },
+    {
+        "Order": "6",
+        "Position": "Governor (each Province)"
+    },
+    {
+        "Order": "7",
+        "Position": "Minister of Government of Nepal, Chief minister (Inside Province), Governor (outside the province)"
+    },
+    {
+        "Order": "8",
+        "Position": "State Minister of Government of Nepal, vice chairman of National Planning Association, Judges of Supreme court, Speaker of Province Assembly"
+    },
+    {
+        "Order": "9",
+        "Position": "Province Government Minister, Member of Parliament, Member of National Assembly, state Minister of province Government, Deputy Speaker of Province Government, Mayor of Kathmandu Metropolitan City, Members of Constitutional Bodies, Chief Secretary Of Government of Nepal"
+    },
+    {
+        "Order": "10",
+        "Position": "Member of Province Assembly, Mayor of Metropolitan city (except Kathmandu), Head of district coordination committee"
+    },
+    {
+        "Order": "11",
+        "Position": "Member and Commissioner of Different Commissions of Nepal, Members of National Planning Commission, Secretariat of Parliament, Chief Judges Of High Court, Governor of Nepal Rastra Bank"
+    },
+    {
+        "Order": "12",
+        "Position": "Secretary of Government of Nepal, Nepalese Ambassador, Ambassador of Different Countries for Nepal, Secretary Of SAARC, Mayor of Sub Metropolitan city, Deputy Mayor of Kathmandu"
+    },
+    {
+        "Order": "13",
+        "Position": "Mayor of Municipality, High court Judge"
+    },
+    {
+        "Order": "14",
+        "Position": "Province Head Of Loksewa Aayog, Member of Province Lok sewa Aayog"
+    },
+    {
+        "Order": "15",
+        "Position": "Vice Chairman of District Coordination Committee, Chairman Of Gaun palika, Deputy Mayors of Municipality, Judges of District Court, Secretary of Province Government, Vice Principal of University,"
+    }
+]

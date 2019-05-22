@@ -1,0 +1,102 @@
+[
+    {
+        "Airline": "Buddha Air",
+        "Sector": "Domestic/International",
+        "Image": "",
+        "ICAO": "BHA",
+        "IATA": "U4",
+        "Callsign": "BUDDHA AIR",
+        "AOC issued": "1997",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Himalaya Airlines",
+        "Sector": "International",
+        "Image": "",
+        "ICAO": "HIM",
+        "IATA": "H9",
+        "Callsign": "HIMALAYA",
+        "AOC issued": "2014",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Nepal Airlines",
+        "Sector": "Domestic/International",
+        "Image": "",
+        "ICAO": "RNA",
+        "IATA": "RA",
+        "Callsign": "ROYAL NEPAL",
+        "AOC issued": "1958",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Saurya Airlines",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "-",
+        "IATA": "S1[citation needed]",
+        "Callsign": "-",
+        "AOC issued": "2014",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Shree Airlines",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "SHA",
+        "IATA": "N9[3]",
+        "Callsign": "SHREE AIR",
+        "AOC issued": "1999",
+        "Type": "Helicopter/Aeroplane"
+    },
+    {
+        "Airline": "Sita Air",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "STA[a]",
+        "IATA": "ST[citation needed]",
+        "Callsign": "-",
+        "AOC issued": "2003",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Simrik Airlines",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "RMK",
+        "IATA": "-",
+        "Callsign": "-",
+        "AOC issued": "2009",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Summit Air",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "SMA[b]",
+        "IATA": "-",
+        "Callsign": "-",
+        "AOC issued": "2011",
+        "Type": ""
+    },
+    {
+        "Airline": "Tara Air",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "TRA[c]",
+        "IATA": "TB[7]",
+        "Callsign": "TARA AIR",
+        "AOC issued": "2009",
+        "Type": "Aeroplane"
+    },
+    {
+        "Airline": "Yeti Airlines",
+        "Sector": "Domestic",
+        "Image": "",
+        "ICAO": "NYT",
+        "IATA": "YT",
+        "Callsign": "YETI AIRLINES",
+        "AOC issued": "1998",
+        "Type": "Aeroplane"
+    }
+]

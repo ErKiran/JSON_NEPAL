@@ -1,0 +1,931 @@
+[
+    {
+        "Hospital": "Maya Metro Hospital Pvt. Limited",
+        "Location": "Chatakpur-3 , Dhangadhi, Kailali",
+        "Notes": "Phone no: 091416140",
+        "Description": "Multispeciality Hospital"
+    },
+    {
+        "Hospital": "Ayur Health Care & Diagnostic Centre",
+        "Location": "Satdobato-15, Lalitpur, Patan",
+        "Notes": "01-5524443 - 9803609527",
+        "Description": "The Centre is mainly estabilished by ayurveda and allopathic doctor teams. Patients can get treatment at one place as integrated health services at one place. Patients can get treatments at lower cost."
+    },
+    {
+        "Hospital": "Advanced Medicare Hospital (AMC)",
+        "Location": "Birta, Birgunj, Parsa",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Ajasrika Ayurveda and Panchakarma Centre",
+        "Location": "Bhaisepati, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Annapurna Neurological Institute & Allied Sciences",
+        "Location": "All Nepal Hospital, Samakhushi, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bardibas Hospital",
+        "Location": "Bardibas, Mahottari",
+        "Notes": "",
+        "Description": "(Nepali: बर्दिबास अस्पताल) Headed by Dr Raghbendra Jha, Dr Bibodh Jung Karki"
+    },
+    {
+        "Hospital": "Bhawani Hospital Research Center",
+        "Location": "Birgunj, Parsa",
+        "Notes": "",
+        "Description": "Bhawani Hospital and Research Center is located in Birgunj. With affiliation from CTEVT, it is offering Lab Assistant program."
+    },
+    {
+        "Hospital": "B.P. Eye Foundation, Children's Hospital for Eye, ENT and Rehabilitation Services (CHEERS)",
+        "Location": "Lokanthali, Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Birgunj Health Care Hospital",
+        "Location": "Birgunj, Parsa",
+        "Notes": "",
+        "Description": "The Main abjective of BHC hospital is to provide adequate Health Service by using latest technology and equipment explored in health sector to poor and middle class family in low cost without any racism, cast, culture. Source: www.hamrodoctor.com"
+    },
+    {
+        "Hospital": "Chitwan Medical College",
+        "Location": "",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Chitwan Eye Hospital",
+        "Location": "Bharatpur 10, Chitwan",
+        "Notes": "",
+        "Description": "(Specialized Eye Hospital in Chitwan"
+    },
+    {
+        "Hospital": "Advanced Poly Clinic (Kathmandu)",
+        "Location": "Pani Pokhari, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Advanced Poly Clinic(Pokhara)",
+        "Location": "New Road, Pokhara",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Moksha  Ayurveda & Panchakarma Center",
+        "Location": "Bakhundole, Patan, Lalitpur (Near by Norwegian Embassy)",
+        "Notes": "",
+        "Description": "Ayurvedic clinic specialized for Panchakarma Treatments, Pain Management, Stress Management, Piles & Fistula Treatments, Yoga & Meditation.[1]"
+    },
+    {
+        "Hospital": "Shubhatara Hospital & Research Center",
+        "Location": "Mahalaxmisthan-15, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "AMDA",
+        "Location": "Jorpati, Damak and Dhulabari",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Amppipal Hospital",
+        "Location": "Amppipal, Gorkha",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Anand Ban Leprosy Hospital",
+        "Location": "Tika Bhairab, Lele, Lalitpur",
+        "Notes": "",
+        "Description": "(Nepali: आनन्द वन कुष्टरोग अस्पताल) Specialized hospital serving people suffering from leprosy."
+    },
+    {
+        "Hospital": "Arbuda Rog Nibaran Santha",
+        "Location": "Bagbazar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Arghakhanchi Hospital",
+        "Location": "Arghakhanchi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Ayurvedic Hospital",
+        "Location": "Nardevi",
+        "Notes": "",
+        "Description": "ayruvedic treatment system. The hospital operates an ayurvedic medical school."
+    },
+    {
+        "Hospital": "Nepal Ayurveda Medical College & Teaching Hospital",
+        "Location": "Birgunj, Parsa",
+        "Notes": "",
+        "Description": "ayurvedic treatment system. The hospital operates an ayurvedic medical school."
+    },
+    {
+        "Hospital": "B & B Hospital",
+        "Location": "Gwarko",
+        "Notes": "",
+        "Description": "Established by Dr. Jagadisha Lal Baidya (urologist) and Dr. Ashok Kumar Banskota (orthopedic surgeon). It is a teaching hospital of Kathmandu University School of Medical Sciences.[2] [3]"
+    },
+    {
+        "Hospital": "Bankali Hospital",
+        "Location": "Gaushala",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bayalpata Hospital",
+        "Location": "Achham",
+        "Notes": "",
+        "Description": "Operated by Nyaya Health[4] in partnership with the Nepal Ministry of Health and Population."
+    },
+    {
+        "Hospital": "Bhaktapur Cancer Hospital",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bhaktapur Hospital",
+        "Location": "Dudhpati, Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bharatpur Hospital",
+        "Location": "Bharatpur, Chitwan",
+        "Notes": "",
+        "Description": "(Nepali: महेन्द्र आर्दश चिकीत्सालय)"
+    },
+    {
+        "Hospital": "Bheri Zonal Hospital",
+        "Location": "Nepalgunj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Biratnagar Eye Hospital",
+        "Location": "Biratnagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bir Hospital",
+        "Location": "Tundikhel",
+        "Notes": "",
+        "Description": "Established by Bir Shamsher Jang Bahadur Rana. The hospital hosts the National Academy of Medical Sciences, a college affiliated to Tribhuwan University, providing master's level degree to doctors.[5][6]"
+    },
+    {
+        "Hospital": "Birendra Sainik Aspatal (Birendra Military Hospital)",
+        "Location": "Chhauni",
+        "Notes": "",
+        "Description": "(Nepali: बीरेन्द्र सैनिक अस्पताल) A military hospital, located in Chhauni, Kathmandu. The late royal family of Nepal were announced dead in this hospital after the Narayanhiti Massacare.[7]"
+    },
+    {
+        "Hospital": "Nepal Police Hospital",
+        "Location": "Maharajganj (Panipokhari)",
+        "Notes": "",
+        "Description": "Nepal Police Hospital, previously known as the Birendra Police Hospital, is the first hospital of Nepal Police organization, founded by IGP Khadgajeet Baral and Late IGP DB Lama, established in 1984 AD.)"
+    },
+    {
+        "Hospital": "Balaju Swasthya Clinic",
+        "Location": "Kathmandu",
+        "Notes": "",
+        "Description": "Acute care hospital"
+    },
+    {
+        "Hospital": "B.P. Koirala Institute of Health Sciences",
+        "Location": "Dharan",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "B.P. Koirala Memorial Cancer Hospital",
+        "Location": "Bharatpur",
+        "Notes": "",
+        "Description": "National cancer center for diagnosis, treatment, prevention and research in cancer in Nepal"
+    },
+    {
+        "Hospital": "Capital Hospital",
+        "Location": "Putali Sadak",
+        "Notes": "",
+        "Description": "Trauma, total hip, knee and elbow replacement, limb sparing tumor surgery, spinal surgery, painless delivery and other modern childbirth services."
+    },
+    {
+        "Hospital": "Central Jail Hospital",
+        "Location": "Bagh Durbar, Tripureshwor, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Chaurjahari Hospital Rukum",
+        "Location": "Rukum District",
+        "Notes": "",
+        "Description": "Managed by Nepali NGO, Human Development and Community Service (HDCS), since 2001.[8]"
+    },
+    {
+        "Hospital": "Chest Hospital",
+        "Location": "Kalimati, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Chhetrapati Free Hospital",
+        "Location": "Chhetrrapati",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Devi Ma Kunja Ayurvedic Hospital",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": "Ayurvedic hospital focusing on rural women's healthcare. Established by Sarita Shrestha, OBGYN, BAMS[9]"
+    },
+    {
+        "Hospital": "Dhulikhel Hospital, Kathmandu University Hospital",
+        "Location": "Dhulikhel, Kavre",
+        "Notes": "",
+        "Description": "A 325-bed community conceived and supported non-profit, non-government health services provider through its outpatient, emergency, inpatients and outreach primary health care services. A university hospital of Kathmandu University School of Medical Sciences, established by Ram Kantha Makaju.[10][11]"
+    },
+    {
+        "Hospital": "Dr. Iwamura Memorial Hospital And Research Centre",
+        "Location": "Sallaghari",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Far Western Regional Eye Hospital",
+        "Location": "Dhangadhi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Father Bal Eye Hospital",
+        "Location": "Phultekra, Nepalganj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Friends Of Shantabhawan",
+        "Location": "Jorpati",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Gandak Hospital",
+        "Location": "Birgunj, Parsa",
+        "Notes": "",
+        "Description": "Gandak Hospital is an institution focused on the health and well being of the community."
+    },
+    {
+        "Hospital": "Global Hospital",
+        "Location": "Gwarko, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Gorkha Hospital",
+        "Location": "Gorkha",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "HAMS",
+        "Location": "Buddhanagar, Kathmandu",
+        "Notes": "",
+        "Description": "Hospital For Advanced Medicine and Surgery"
+    },
+    {
+        "Hospital": "H.M. Hospital",
+        "Location": "Maharajganj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Helping Hands Community Hospital",
+        "Location": "Chahabil, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Himalaya Eye Hospital",
+        "Location": "Dhari Patan, Pokhara",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Homeopathic Hospital",
+        "Location": "Pulchok",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Hospital and Rehabilitation Centre for Disabled Children",
+        "Location": "Dhobighat, Jawalakhei, Lalitpur and Banepa, Kabhre",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Ilam Hospital",
+        "Location": "Ilam",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "T. U. Teaching Hospital",
+        "Location": "Maharajganj, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kantipur Hospital",
+        "Location": "Subidhanagar, Tinkune, Kathmand",
+        "Notes": "",
+        "Description": "Established in 2054 BS."
+    },
+    {
+        "Hospital": "Inaruwa Hospital",
+        "Location": "Inaruwa",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Bhutaha General Hospital",
+        "Location": "Harinegra ghaupalika 1 bhutaha",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Infectious Diseases Hospital",
+        "Location": "Teku, Kathmandu",
+        "Notes": "",
+        "Description": "Specializing in treatment of patients suffering from tropical diseases."
+    },
+    {
+        "Hospital": "International Friendship Children's Hospital (IFCH)",
+        "Location": "Maharajganj, Kathmandu ( https://www.ifch.com.np )",
+        "Notes": "",
+        "Description": "Pediatric Medicine and Pediatric Surgery, Intensive Care Units (Neonatal ICU, Surgical ICU, Preterm ICU, Infant ICU having ventilators), CT SCAN, ECHO CARDIOGRAM, Digital Monitoring and ABG machines with well equipped laboratory and ambulatory services having 12 hours OPD facility."
+    },
+    {
+        "Hospital": "Jaleshwar Hospital",
+        "Location": "Jaleshwar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Janakpur Zonal Hospital",
+        "Location": "Janakpur",
+        "Notes": "",
+        "Description": "(Nepali: जनकपुर अञ्चल अस्पताल) Headed by Dr Sanjay Kumar Thakur"
+    },
+    {
+        "Hospital": "Janaki Medical College",
+        "Location": "Janakpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kanti Children's Hospital",
+        "Location": "Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kantipur Dental Hospital",
+        "Location": "Maharajganj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kaski Sewa Hospital and Research center",
+        "Location": "Pokhara, Kaski",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Taulihawa Hospital",
+        "Location": "Kapilvastu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kathmandu Hospital",
+        "Location": "Tripureshwar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kathmandu Medical College Teaching Hospital",
+        "Location": "Sinamangal",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kathmandu Model Hospital",
+        "Location": "Bagbazar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "KIST Medical College and Teaching Hospital",
+        "Location": "Imadol, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Birgunj Drishti Eye Hospital",
+        "Location": "Birgunj",
+        "Notes": "",
+        "Description": "As our goal to expand the eye care facilities, providing best ophthalmic care to our patients, We have been providing comprehensive eye care services in our hospital since the inception."
+    },
+    {
+        "Hospital": "Ram Kumar Mahabir Prasad Kedia Eye Hospital",
+        "Location": "Lipani, Birgunj",
+        "Notes": "",
+        "Description": "Center of activities of hospital, providing almost all types of eye surgeries to the patient including cataract surgeries particularly phacoemulsification, glaucoma surgeries, keratoplasty and oculoplasty. However we are lagging behind in vitreo-retinal services."
+    },
+    {
+        "Hospital": "Khagendra New Life Centre",
+        "Location": "Jorpati",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Koshi Zonal Hospital",
+        "Location": "Biratnagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kunde Hospital",
+        "Location": "Kunde",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Lamjung District Community Hospital",
+        "Location": "Lamjung",
+        "Notes": "",
+        "Description": "Managed by Nepali NGO, Human Development and Community Service (HDCS), since 2001.[12]"
+    },
+    {
+        "Hospital": "Life Care Hospital",
+        "Location": "Bagh Durbar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Lions Eye Care Centre",
+        "Location": "New Baneshwar",
+        "Notes": "",
+        "Description": "(Nepali: लायन्स नेत्र उपचार केन्द्र) Specialized ophthalmological hospital. The center also has a dental care center on the same building.[13]"
+    },
+    {
+        "Hospital": "Lumbini Eye Institute[14]",
+        "Location": "Siddharthanagar",
+        "Notes": "",
+        "Description": "Shree Rana Ambika Shah Eye Hospital"
+    },
+    {
+        "Hospital": "Wellness Hospital Private Limited",
+        "Location": "Bansbari Road, Kathmandu",
+        "Notes": "",
+        "Description": "(Nepali: वेलनेस हसपिटल प्राइभेट लिमिटेड) Specialized naturopathy hospital. The hospital favors holistic approach and encourage minimum use of unnecessary drugs and use of surgery.[15]"
+    },
+    {
+        "Hospital": "Lumbini Zonal Hospital",
+        "Location": "Butwal",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Mahakali Zonal Hospital",
+        "Location": "Mahendranagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Mahendra Hospital (Now: Rapti Sub-Regional Hospital)",
+        "Location": "Ghorahi, Dang",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Mahendra Memorial Eye Hospital",
+        "Location": "Bharatpur",
+        "Notes": "",
+        "Description": "(Nepali: श्री ५ महेन्द्र स्मारक आँखा अस्पताल)"
+    },
+    {
+        "Hospital": "Maternity Hospital",
+        "Location": "Thapathali, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Mechi Zonal Hospital",
+        "Location": "Bhadrapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Medicare National Hospital and Research Centre",
+        "Location": "Chabahil, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Mental Hospital",
+        "Location": "Lagankhel, Lalitpur",
+        "Notes": "",
+        "Description": "(Nepali: मानसिक अस्पताल)"
+    },
+    {
+        "Hospital": "Miteri Hospital",
+        "Location": "Bagbazar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "National Medical College",
+        "Location": "Birgunj",
+        "Notes": ""
+    },
+    {
+        "Hospital": "Narayani Zonal Hospital",
+        "Location": "Birgunj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Narmada Ayurveda Health Home and Research Centre",
+        "Location": "New Baneshwar, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "National Cancer Hospital",
+        "Location": "Jawalakhel, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "National Dental Hospital",
+        "Location": "Lazimpat, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepal Anti TB Hospital",
+        "Location": "Sanothimi, Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepal Eye Hospital[16]",
+        "Location": "Tripureshwor, Kathmandu",
+        "Notes": "",
+        "Description": "(Nepali: नेपाल आँखा अस्पताल)"
+    },
+    {
+        "Hospital": "Nepal Medical College Teaching Hospital",
+        "Location": "Jorpati, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepal Medical Hospital",
+        "Location": "Thapathali, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepal Mediciti Hospital",
+        "Location": "Lalitpur",
+        "Notes": "",
+        "Description": "A private world-class quaternary care facility with multiple Centers of Excellence [17]"
+    },
+    {
+        "Hospital": "Nepal T.B. Hospital",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepal T.B. Hospital",
+        "Location": "Kalimati",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nepalgunj Medical College Teaching Hospital",
+        "Location": "Kohalpur, Banke",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Niko Children's Hospital Pvt. Ltd.",
+        "Location": "Bharatpur 10, Chitwan",
+        "Notes": "",
+        "Description": "Specialised hospital for Children. Paediatric and Infant care facilities with NICU, PICU having ventilators."
+    },
+    {
+        "Hospital": "Nobel Hospital",
+        "Location": "Sinamangal, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Nobel Medical College Teaching Hospital & Research Center",
+        "Location": "Kanchanbari, Biratnagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Norvic International Hospital",
+        "Location": "Thapathali, Kathmandu",
+        "Notes": "",
+        "Description": "Near Tribhuvan International Airport[18]"
+    },
+    {
+        "Hospital": "Om Hospital and Research Center",
+        "Location": "Chabahil, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Ojus Ayurveda Hospital and Research Centre. Nepal's first Panchakarma hospital.",
+        "Location": "Samakhusi Junction, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Orthopaedic Hospital",
+        "Location": "Jorpati",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Palpa Mission Hospital",
+        "Location": "Palpa",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Patan Hospital",
+        "Location": "Patan",
+        "Notes": "",
+        "Description": "(Nepali: पाटन अस्पताल) Previously operated by United Mission to Nepal, now operated by the hospital board.[19]"
+    },
+    {
+        "Hospital": "People's Dental College And Hospital",
+        "Location": "Naya Bazar, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Prasuti Griha Government Maternity Hospital",
+        "Location": "Thapathali, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Prithivi Chandra Hospital",
+        "Location": "Nawalparasi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Public Health Centre",
+        "Location": "Vyas, Tanahun",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Ram Lal Golcha Eye Hospital Foundation",
+        "Location": "Biratnagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Rapti Eye Hospital",
+        "Location": "Tulsipur, Dang",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Reiyukai Eiko Masunaga Eye Hospital",
+        "Location": "Banepa, Kavre",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "SAARC T.B. Center",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Sagarmatha Choudhary Eye Hospital, Lahan",
+        "Location": "Lahan, Siraha",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Sagarmatha Zonal Hospital",
+        "Location": "Rajbiraj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Sarlahi Hospital",
+        "Location": "Malangawa, Sarlahi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Scheer Memorial Hospital",
+        "Location": "Banepa",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Seti Zonal Hospital",
+        "Location": "Dhangadhi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Shahid Gangalal National Heart Center",
+        "Location": "Bansbari, Kathmandu",
+        "Notes": "",
+        "Description": "Specializes in cardiac care."
+    },
+    {
+        "Hospital": "Shahid Memorial Hospital Dhading",
+        "Location": "Dhading Bensi, Dhading",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Shakha Hospital",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Shree Janaki Eye Care Centre",
+        "Location": "Janakpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Sri Pashupati Homeopathic Hospital",
+        "Location": "Harihar Bhawan, Pulchok, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Vision Concern Optics & Eye Clinic",
+        "Location": "Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Siddhartha Apollo Hospital",
+        "Location": "Kamaladi, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Siddhartha Children and Women Hospital",
+        "Location": "Butwal, Rupandehi",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Siddhi Memorial Women and Children hospital",
+        "Location": "Bhaktapur",
+        "Notes": "",
+        "Description": "NGO Hospital Specialized Pediatric and Gynecology & Obstetrics Care : 50 Bedded Hospital with 24 hours Pediatric Emergency Care, GYOBS Surgery, 10  Bedded Level 3 NICU & 3 Bed PICU, Only hospital in Bhaktapur for Pediatric Surgery"
+    },
+    {
+        "Hospital": "Sukraraj Tropical Disease Hospital (Teku Hospital)",
+        "Location": "Teku, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Surkhet District Hospital",
+        "Location": "Surkhet",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Sushma Koirala Memorial (SKM) Hospital",
+        "Location": "Sankhu",
+        "Notes": "",
+        "Description": "Center of reconstructive surgery"
+    },
+    {
+        "Hospital": "Tamghas Hospital",
+        "Location": "Gulmi, Lumbini",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "TEAM Hospital Dadeldhura",
+        "Location": "Dadeldhura District",
+        "Notes": "",
+        "Description": "Managed by Nepali NGO, Human Development and Community Service (HDCS), since 2001.[20]"
+    },
+    {
+        "Hospital": "Tilganga Institute of Ophthalmology",
+        "Location": "Gaushala, Bagmati Bridge, Kathmandu",
+        "Notes": "",
+        "Description": "Specializes in eye care. Its leading doctor, Dr. Sunduk Ruit, was awarded the Magasesey award.[21]"
+    },
+    {
+        "Hospital": "Tokha Hospital",
+        "Location": "Tokha, Kathmandu",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Tribhuvan University Teaching Hospital",
+        "Location": "Maharajganj",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Trishuli Hospital",
+        "Location": "Nuwakot, Trishuli",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Tsho Rolpa Hospital",
+        "Location": "Charikot, Dolakha District",
+        "Notes": "",
+        "Description": "A 50-bed private sector hospital."
+    },
+    {
+        "Hospital": "Udayapur District Hospital",
+        "Location": "Triyuga",
+        "Notes": "",
+        "Description": "50 bed hospital"
+    },
+    {
+        "Hospital": "United Mission to Nepal Okhaldunga Hospital",
+        "Location": "Okhaldhunga",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Kathmandu Cancer Center",
+        "Location": "Tathali, Bhaktapur",
+        "Notes": "",
+        "Description": "Cancer Hospital"
+    },
+    {
+        "Hospital": "Universal College of Medical Sciences",
+        "Location": "Bhairahawa, Rupandehi District (Tertiary Care Centre)",
+        "Notes": "",
+        "Description": "Teaching hospital registered under Tribhuwan University"
+    },
+    {
+        "Hospital": "Star Hospital",
+        "Location": "Sanepa Ring road, Lalitpur",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Biratnagar Aspatal",
+        "Location": "Biratnagar",
+        "Notes": "",
+        "Description": ""
+    },
+    {
+        "Hospital": "Visual Line Optical & Eye Clinic",
+        "Location": "Kathmandu, Nepal",
+        "Notes": "",
+        "Description": "Optometry clinic"
+    },
+    {
+        "Hospital": "Solu District Hospital",
+        "Location": "Phaplu, Solukhumbu",
+        "Notes": "",
+        "Description": "Built by Sir Ed. Hillary, 1974."
+    }
+]

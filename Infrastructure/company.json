@@ -1,0 +1,434 @@
+[
+    {
+        "Name": "Agni Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2006",
+        "Notes": "Airline, defunct 2006"
+    },
+    {
+        "Name": "Agriculture Development Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1968",
+        "Notes": "Bank, rural credit institution"
+    },
+    {
+        "Name": "Air Nepal International",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2005",
+        "Notes": "Airline, defunct 2006"
+    },
+    {
+        "Name": "Asian Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2002[6]",
+        "Notes": "Airline, defunct 2006"
+    },
+    {
+        "Name": "Bajeko Sekuwa",
+        "Industry": "Consumer services",
+        "Sector": "Restaurants & bars",
+        "Headquarters": "Kathmandu",
+        "Founded": "?",
+        "Notes": "Restaurant chain"
+    },
+    {
+        "Name": "Base Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "?",
+        "Founded": "2004",
+        "Notes": "Airline, defunct 2007"
+    },
+    {
+        "Name": "Buddha Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Jawalakhel",
+        "Founded": "1997",
+        "Notes": "Domestic airline"
+    },
+    {
+        "Name": "Chaudhary Group",
+        "Industry": "Conglomerates",
+        "Sector": "-",
+        "Headquarters": "Kathmandu",
+        "Founded": "1968",
+        "Notes": "Consumer goods, financials, industrials"
+    },
+    {
+        "Name": "Citizens Bank International Limited",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "2007",
+        "Notes": "Commercial bank"
+    },
+    {
+        "Name": "Cosmic Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1997",
+        "Notes": "Airline, defunct 2008"
+    },
+    {
+        "Name": "Deurali-Janta Pharmaceuticals",
+        "Industry": "Health care",
+        "Sector": "Pharmaceuticals",
+        "Headquarters": "Kathmandu",
+        "Founded": "1988",
+        "Notes": "Pharma"
+    },
+    {
+        "Name": "Dish Home",
+        "Industry": "Telecommunications",
+        "Sector": "Mobile telecommunications",
+        "Headquarters": "Lalitpur",
+        "Founded": "2010",
+        "Notes": "Satellite"
+    },
+    {
+        "Name": "Everest Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1992",
+        "Notes": "Airline, defunct 1998"
+    },
+    {
+        "Name": "Fly Yeti",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2007",
+        "Notes": "Low-cost airline, defunct 2008"
+    },
+    {
+        "Name": "Flying Dragon Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Nepalgunj",
+        "Founded": "2005",
+        "Notes": "Airline"
+    },
+    {
+        "Name": "Giribandhu Tea Estate",
+        "Industry": "Consumer goods",
+        "Sector": "Food products",
+        "Headquarters": "Birtamod",
+        "Founded": "1962[7]",
+        "Notes": "Tea"
+    },
+    {
+        "Name": "Gorkha Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1996",
+        "Notes": "Charter airline"
+    },
+    {
+        "Name": "Guna Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2009",
+        "Notes": "Airline, defunct 2013"
+    },
+    {
+        "Name": "Himalayan Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1993",
+        "Notes": "Private sector bank"
+    },
+    {
+        "Name": "Hulas Motors",
+        "Industry": "Consumer goods",
+        "Sector": "Automobiles",
+        "Headquarters": "Biratnagar",
+        "Founded": "1996",
+        "Notes": "{{{6}}}"
+    },
+    {
+        "Name": "IME Group",
+        "Industry": "Conglomerates",
+        "Sector": "-",
+        "Headquarters": "Kathmandu",
+        "Founded": "2001",
+        "Notes": "Financials, oil & gas, industrials, travel & leisure"
+    },
+    {
+        "Name": "IMS Group Nepal",
+        "Industry": "Conglomerates",
+        "Sector": "-",
+        "Headquarters": "Kathmandu",
+        "Founded": "1993",
+        "Notes": "Mobile phones, Consumer Goods, Automobiles, Real estate"
+    },
+    {
+        "Name": "Impro Airways",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "?",
+        "Founded": "2006",
+        "Notes": "Helicopter airline, defunct 2010"
+    },
+    {
+        "Name": "Karnali Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "?",
+        "Notes": "Airline, defunct 2003"
+    },
+    {
+        "Name": "Kathmandu Infosys",
+        "Industry": "Technology",
+        "Sector": "Computer services",
+        "Headquarters": "Kathmandu",
+        "Founded": "2016",
+        "Notes": "Educational Consultant"
+    },
+    {
+        "Name": "Krishna Pauroti",
+        "Industry": "Consumer goods",
+        "Sector": "Food products",
+        "Headquarters": "Kathmandu",
+        "Founded": "1948",
+        "Notes": "Bakery"
+    },
+    {
+        "Name": "Laxmi Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "2002",
+        "Notes": "Commercial bank"
+    },
+    {
+        "Name": "Makalu Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Nepalgunj",
+        "Founded": "2009",
+        "Notes": "Airline"
+    },
+    {
+        "Name": "Media Chautari",
+        "Industry": "Consumer services",
+        "Sector": "Broadcasting & entertainment",
+        "Headquarters": "Kathmandu",
+        "Founded": "2006",
+        "Notes": "Media, film"
+    },
+    {
+        "Name": "Mountain Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "?",
+        "Founded": "2000",
+        "Notes": "Airline, defunct 2002"
+    },
+    {
+        "Name": "Nabil Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1984",
+        "Notes": "Commercial bank"
+    },
+    {
+        "Name": "Ncell",
+        "Industry": "Telecommunications",
+        "Sector": "Mobile telecommunications",
+        "Headquarters": "Lalitpur",
+        "Founded": "2004",
+        "Notes": "GSM"
+    },
+    {
+        "Name": "Necon Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "?",
+        "Founded": "1992",
+        "Notes": "Airline, defunct 2003"
+    },
+    {
+        "Name": "Nepal Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1958",
+        "Notes": "Flag carrier airline"
+    },
+    {
+        "Name": "Nepal Bangladesh Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1994",
+        "Notes": "Commercial bank"
+    },
+    {
+        "Name": "Nepal Bank Limited",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1937",
+        "Notes": "State-owned bank"
+    },
+    {
+        "Name": "Nepal Investment Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1986",
+        "Notes": "Commercial bank"
+    },
+    {
+        "Name": "Nepal Oil Corporation",
+        "Industry": "Oil & gas",
+        "Sector": "Exploration & production",
+        "Headquarters": "Kathmandu",
+        "Founded": "1970",
+        "Notes": "State owned petro concern"
+    },
+    {
+        "Name": "Nepal Rastra Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1956",
+        "Notes": "Central bank"
+    },
+    {
+        "Name": "Nepal SBI Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1992",
+        "Notes": "Joint venture bank with State Bank of India"
+    },
+    {
+        "Name": "Nepal Stock Exchange",
+        "Industry": "Financials",
+        "Sector": "Investment services",
+        "Headquarters": "Kathmandu",
+        "Founded": "1993",
+        "Notes": "Primary exchange"
+    },
+    {
+        "Name": "Nepal Telecom",
+        "Industry": "Telecommunications",
+        "Sector": "Fixed line telecommunications",
+        "Headquarters": "Kathmandu",
+        "Founded": "1913",
+        "Notes": "State telecom provider"
+    },
+    {
+        "Name": "NIDC Development Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1959",
+        "Notes": "Industrial bank"
+    },
+    {
+        "Name": "Rastriya Banijya Bank",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1966",
+        "Notes": "State-owned commercial bank"
+    },
+    {
+        "Name": "Ratna Pustak Bhandar",
+        "Industry": "Consumer services",
+        "Sector": "Specialty retailers",
+        "Headquarters": "Kathmandu",
+        "Founded": "1946",
+        "Notes": "Books"
+    },
+    {
+        "Name": "Shangri-La Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "?",
+        "Founded": "1999",
+        "Notes": "Airline, merged with Necon Air in 2001"
+    },
+    {
+        "Name": "Shree Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1999",
+        "Notes": "Charter helicopter airline"
+    },
+    {
+        "Name": "Sita Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2003",
+        "Notes": "Airline"
+    },
+    {
+        "Name": "Skyline Airways",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1999",
+        "Notes": "Airline, defunct 2003"
+    },
+    {
+        "Name": "Standard Chartered Nepal",
+        "Industry": "Financials",
+        "Sector": "Banks",
+        "Headquarters": "Kathmandu",
+        "Founded": "1987",
+        "Notes": "Bank, significant subsidiary of Standard Chartered (UK)"
+    },
+    {
+        "Name": "Subisu",
+        "Industry": "Telecommunications",
+        "Sector": "Fixed line telecommunications",
+        "Headquarters": "Kathmandu",
+        "Founded": "1999",
+        "Notes": "Cable Internet"
+    },
+    {
+        "Name": "Tara Air",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "2009",
+        "Notes": "Airline"
+    },
+    {
+        "Name": "WorldLink",
+        "Industry": "Telecommunications",
+        "Sector": "Fixed line telecommunications",
+        "Headquarters": "Kathmandu",
+        "Founded": "1995",
+        "Notes": "Internet and network service provider"
+    },
+    {
+        "Name": "Yeti Airlines",
+        "Industry": "Consumer services",
+        "Sector": "Airlines",
+        "Headquarters": "Kathmandu",
+        "Founded": "1998",
+        "Notes": "Airline"
+    }
+]

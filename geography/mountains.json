@@ -1,0 +1,548 @@
+[
+    {
+        "Mountain/Peak": "Mount Everest",
+        "metres": "8,848",
+        "feet": "29,029",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Earth's highest from sea level"
+    },
+    {
+        "Mountain/Peak": "Kanchenjunga",
+        "metres": "8,586",
+        "feet": "28,169",
+        "Section": "Northern Kangchenjunga",
+        "Notes": "3rd highest on Earth"
+    },
+    {
+        "Mountain/Peak": "Lhotse",
+        "metres": "8,516",
+        "feet": "27,940",
+        "Section": "Everest Group",
+        "Notes": "4th highest"
+    },
+    {
+        "Mountain/Peak": "Makalu",
+        "metres": "8,463",
+        "feet": "27,766",
+        "Section": "Makalu Mahalangur",
+        "Notes": "5th highest"
+    },
+    {
+        "Mountain/Peak": "Cho Oyu",
+        "metres": "8,201",
+        "feet": "26,906",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "6th highest"
+    },
+    {
+        "Mountain/Peak": "Dhaulagiri I",
+        "metres": "8,167",
+        "feet": "26,795",
+        "Section": "Dhaulagiri",
+        "Notes": "7th highest"
+    },
+    {
+        "Mountain/Peak": "Manaslu",
+        "metres": "8,156",
+        "feet": "26,759",
+        "Section": "Mansiri",
+        "Notes": "8th highest"
+    },
+    {
+        "Mountain/Peak": "Annapurna I",
+        "metres": "8,091",
+        "feet": "26,545",
+        "Section": "Annapurna",
+        "Notes": "10th highest"
+    },
+    {
+        "Mountain/Peak": "Gyachung Kang",
+        "metres": "7,952",
+        "feet": "26,089",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "between Everest and Cho Oyu"
+    },
+    {
+        "Mountain/Peak": "Annapurna II",
+        "metres": "7,937",
+        "feet": "26,040",
+        "Section": "Annapurna",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Himalchuli",
+        "metres": "7,893",
+        "feet": "25,896",
+        "Section": "Mansiri",
+        "Notes": "18th highest"
+    },
+    {
+        "Mountain/Peak": "Ngadi Chuli",
+        "metres": "7,871",
+        "feet": "25,823",
+        "Section": "Mansiri",
+        "Notes": "First ascent 1970"
+    },
+    {
+        "Mountain/Peak": "Nuptse",
+        "metres": "7,861",
+        "feet": "25,791",
+        "Section": "Everest Group",
+        "Notes": "319 metres prominence from Lhotse"
+    },
+    {
+        "Mountain/Peak": "Dhaulagiri II",
+        "metres": "7,751",
+        "feet": "25,430",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Jannu",
+        "metres": "7,711",
+        "feet": "25,299",
+        "Section": "Kumbhakarna Kangchenjunga",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Dhaulagiri IV",
+        "metres": "7,661",
+        "feet": "25,135",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Dhaulagiri V",
+        "metres": "7,618",
+        "feet": "24,993",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Annapurna III",
+        "metres": "7,555",
+        "feet": "24,787",
+        "Section": "Annapurna",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Jongsong Peak",
+        "metres": "7,462",
+        "feet": "24,482",
+        "Section": "Janak",
+        "Notes": "#57 in the world"
+    },
+    {
+        "Mountain/Peak": "Gangapurna",
+        "metres": "7,455",
+        "feet": "24,459",
+        "Section": "Annapurna",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Yangra",
+        "metres": "7,422",
+        "feet": "24,350",
+        "Section": "Ganesh",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Kabru",
+        "metres": "7,412",
+        "feet": "24,318",
+        "Section": "Singalila Kangchenjunga",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Churen Himal",
+        "metres": "7,385",
+        "feet": "24,229",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Kirat Chuli",
+        "metres": "7,365",
+        "feet": "24,163",
+        "Section": "Kangchenjunga",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Nangpai Gosum",
+        "metres": "7,350",
+        "feet": "24,114",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "First ascent October 12, 1986."
+    },
+    {
+        "Mountain/Peak": "Gimmigela Chuli",
+        "metres": "7,350",
+        "feet": "24,114",
+        "Section": "",
+        "Notes": "First ascent 1995"
+    },
+    {
+        "Mountain/Peak": "Chamlang",
+        "metres": "7,321",
+        "feet": "24,019",
+        "Section": "Barun Mahalangur",
+        "Notes": "#79 in the world"
+    },
+    {
+        "Mountain/Peak": "Dhaulagiri VI",
+        "metres": "7,268",
+        "feet": "23,845",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Putha Hiunchuli",
+        "metres": "7,246",
+        "feet": "23,773",
+        "Section": "Dhaulagiri",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Langtang Lirung",
+        "metres": "7,227",
+        "feet": "23,711",
+        "Section": "Langtang",
+        "Notes": "#99 in the world"
+    },
+    {
+        "Mountain/Peak": "Annapurna Dakshin",
+        "metres": "7,219",
+        "feet": "23,684",
+        "Section": "Annapurna",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Langtang Ri",
+        "metres": "7,205",
+        "feet": "23,638",
+        "Section": "Langtang",
+        "Notes": "#106 in the world"
+    },
+    {
+        "Mountain/Peak": "Chamar",
+        "metres": "7,187",
+        "feet": "23,579",
+        "Section": "Sringi",
+        "Notes": "First ascent 1953"
+    },
+    {
+        "Mountain/Peak": "Melungtse",
+        "metres": "7,181",
+        "feet": "23,560",
+        "Section": "Rolwaling",
+        "Notes": "First ascent 1988"
+    },
+    {
+        "Mountain/Peak": "Pumori",
+        "metres": "7,161",
+        "feet": "23,494",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "First ascent 1962"
+    },
+    {
+        "Mountain/Peak": "Nemjung     Manang",
+        "metres": "7,140",
+        "feet": "23,425",
+        "Section": "",
+        "Notes": "First ascent 1983"
+    },
+    {
+        "Mountain/Peak": "Gaurishankar",
+        "metres": "7,134",
+        "feet": "23,406",
+        "Section": "Rolwaling",
+        "Notes": "First ascent 1979"
+    },
+    {
+        "Mountain/Peak": "Tilicho Peak",
+        "metres": "7,134",
+        "feet": "23,406",
+        "Section": "Annapurna",
+        "Notes": "First ascent 1979"
+    },
+    {
+        "Mountain/Peak": "Api",
+        "metres": "7,132",
+        "feet": "23,399",
+        "Section": "Yoka Pahar Gurans",
+        "Notes": "First ascent 1960"
+    },
+    {
+        "Mountain/Peak": "Baruntse",
+        "metres": "7,129",
+        "feet": "23,389",
+        "Section": "Barun Mahalangur",
+        "Notes": "First ascent 1954"
+    },
+    {
+        "Mountain/Peak": "Nilgiri",
+        "metres": "7,061",
+        "feet": "23,166",
+        "Section": "Nilgiri Annapurna",
+        "Notes": "First ascent 1962"
+    },
+    {
+        "Mountain/Peak": "Saipal",
+        "metres": "7,031",
+        "feet": "23,068",
+        "Section": "Saipal Gurans",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Machapuchare",
+        "metres": "6,993",
+        "feet": "22,943",
+        "Section": "Annapurna",
+        "Notes": "Sacred mountain, unclimbed"
+    },
+    {
+        "Mountain/Peak": "Kang Guru",
+        "metres": "6,981",
+        "feet": "22,904",
+        "Section": "Larkya or Peri",
+        "Notes": "2005 avalanche kills 18"
+    },
+    {
+        "Mountain/Peak": "Dorje Lakpa",
+        "metres": "6,966",
+        "feet": "22,854",
+        "Section": "Langtang",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Kanjiroba",
+        "metres": "6,883",
+        "feet": "22,582",
+        "Section": "Kanjiroba Himal",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Kubi Gangri",
+        "metres": "6,859",
+        "feet": "22,503",
+        "Section": "Himalayas",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Jethi Bahurani",
+        "metres": "6,850",
+        "feet": "22,474",
+        "Section": "Himalayas",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Ama Dablam",
+        "metres": "6,812",
+        "feet": "22,349",
+        "Section": "Barun Mahalangur",
+        "Notes": "\"Mother and her necklace\""
+    },
+    {
+        "Mountain/Peak": "Kangtega",
+        "metres": "6,782",
+        "feet": "22,251",
+        "Section": "Barun Mahalangur",
+        "Notes": "First ascent 1963"
+    },
+    {
+        "Mountain/Peak": "Cho Polu",
+        "metres": "6,735",
+        "feet": "22,096",
+        "Section": "Barun Mahalangur",
+        "Notes": "First ascent 1999"
+    },
+    {
+        "Mountain/Peak": "Changla",
+        "metres": "6,721",
+        "feet": "22,051",
+        "Section": "Himalayas",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Lingtren",
+        "metres": "6,714",
+        "feet": "22,028",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "First ascent 1935"
+    },
+    {
+        "Mountain/Peak": "Num Ri",
+        "metres": "6,677",
+        "feet": "21,906",
+        "Section": "Barun Mahalangur",
+        "Notes": "First ascent 2002"
+    },
+    {
+        "Mountain/Peak": "Khumbutse",
+        "metres": "6,640",
+        "feet": "21,785",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "First mountain west of Everest"
+    },
+    {
+        "Mountain/Peak": "Thamserku",
+        "metres": "6,623",
+        "feet": "21,729",
+        "Section": "Barun Mahalangur",
+        "Notes": "First ascent 1964"
+    },
+    {
+        "Mountain/Peak": "Pangboche",
+        "metres": "6,620",
+        "feet": "21,719",
+        "Section": "Kutang Himal",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Dragmarpo Ri",
+        "metres": "6,578",
+        "feet": "21,581",
+        "Section": "Langtang",
+        "Notes": "Unclimbed"
+    },
+    {
+        "Mountain/Peak": "Taboche",
+        "metres": "6,542",
+        "feet": "21,463",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "First ascent 1974"
+    },
+    {
+        "Mountain/Peak": "Singu Chuli",
+        "metres": "6,501",
+        "feet": "21,329",
+        "Section": "Annapurna",
+        "Notes": "Trekking peak"
+    },
+    {
+        "Mountain/Peak": "Mera Peak",
+        "metres": "6,476",
+        "feet": "21,247",
+        "Section": "Himalayas",
+        "Notes": "Trekking peak"
+    },
+    {
+        "Mountain/Peak": "Hiunchuli",
+        "metres": "6,441",
+        "feet": "21,132",
+        "Section": "Annapurna",
+        "Notes": "Trekking peak (difficult)"
+    },
+    {
+        "Mountain/Peak": "Cholatse",
+        "metres": "6,440",
+        "feet": "21,129",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Connected to Taboche"
+    },
+    {
+        "Mountain/Peak": "Kusum Kangguru",
+        "metres": "6,367",
+        "feet": "20,889",
+        "Section": "Barun Mahalangur",
+        "Notes": "Trekking peak (difficult)"
+    },
+    {
+        "Mountain/Peak": "Ombigaichan",
+        "metres": "6,340",
+        "feet": "20,801",
+        "Section": "Barun Mahalangur",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Om Parvat",
+        "metres": "6,191",
+        "feet": "20,312",
+        "Section": "Himalayas",
+        "Notes": "Sacred summit"
+    },
+    {
+        "Mountain/Peak": "Kongde Ri",
+        "metres": "6,187",
+        "feet": "20,299",
+        "Section": "Barun Mahalangur",
+        "Notes": "Trekking peak (difficult)"
+    },
+    {
+        "Mountain/Peak": "Imja Tse",
+        "metres": "6,160",
+        "feet": "20,210",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Also known as Island Peak. Popular trekking peak."
+    },
+    {
+        "Mountain/Peak": "Lobuche",
+        "metres": "6,145",
+        "feet": "20,161",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Trekking peak"
+    },
+    {
+        "Mountain/Peak": "Pisang Peak",
+        "metres": "6,091",
+        "feet": "19,984",
+        "Section": "Annapurna",
+        "Notes": "Trekking peak"
+    },
+    {
+        "Mountain/Peak": "Nirekha",
+        "metres": "6,069",
+        "feet": "19,911",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Trekking peak (difficult)"
+    },
+    {
+        "Mountain/Peak": "Baden-Powell Peak",
+        "metres": "5,825",
+        "feet": "19,111",
+        "Section": "Jugal",
+        "Notes": "Formerly known as Urkema Peak"
+    },
+    {
+        "Mountain/Peak": "Pokalde",
+        "metres": "5,806",
+        "feet": "19,049",
+        "Section": "Khumbu Mahalangur",
+        "Notes": "Trekking peak (moderate)"
+    },
+    {
+        "Mountain/Peak": "Mount Khumbila",
+        "metres": "5,761",
+        "feet": "18,901",
+        "Section": "Mahalangur",
+        "Notes": "Unclimbed"
+    },
+    {
+        "Mountain/Peak": "Tharpu Chuli",
+        "metres": "5,663",
+        "feet": "18,579",
+        "Section": "Annapurna",
+        "Notes": "Trekking peak"
+    },
+    {
+        "Mountain/Peak": "Kala Patthar",
+        "metres": "5,545",
+        "feet": "18,192",
+        "Section": "Khumbu Mah",
+        "Notes": "Popular hiking peak below Pumori"
+    },
+    {
+        "Mountain/Peak": "Yala Peak",
+        "metres": "5,520",
+        "feet": "18,110",
+        "Section": "Langtang",
+        "Notes": ""
+    },
+    {
+        "Mountain/Peak": "Gokyo Ri",
+        "metres": "5,357",
+        "feet": "17,575",
+        "Section": "Himalayas",
+        "Notes": "Popular hiking peak"
+    }
+]
